@@ -3,7 +3,7 @@ specialist,     % тип документа
 subf,           % подключить и настроить пакет subfig для вложенной нумерации рисунков
 href,           % подключить и настроить пакет hyperref
 colorlinks=true % цветные гиперссылки
-%,times         % шрифт Times как основной
+,times         % шрифт Times как основной
 %,fixint=false  % отключить прямые знаки интегралов
 ]{disser}
 
@@ -71,39 +71,6 @@ colorlinks=true % цветные гиперссылки
 \date{\number\year}
 
 \maketitle
-%%
-%% Titlepage in English
-%%
-%
-%\setlength\thirdskip{0pt}
-%
-%\institution{Name of Organization}
-%
-%% Approved by
-%\apname{Professor S.\,S.~Sidorov}
-%
-%\title{Diploma Thesis}
-%
-%% Topic
-%\topic{Dummy Title}
-%
-%% Author
-%\author{Author's Name} % Full Name
-%\group{} % Study Group
-%
-%% Scientific Advisor
-%\sa       {I.\,I.~Ivanov}
-%\sastatus {Professor}
-%
-%% Reviewer
-%\rev      {P.\,P.~Petrov}
-%\revstatus{Associate Professor}
-%
-%% City & Year
-%\city{Saint Petersburg}
-%\date{\number\year}
-%
-%\maketitle[en]
 
 % Содержание
 \tableofcontents
@@ -122,5 +89,8 @@ colorlinks=true % цветные гиперссылки
 % Список литературы
 \bibliography{thesis,texs/pm/pm,texs/bm/bm}
 \bibliographystyle{gost705}
+
+
+\input{app-a.tex}
 
 \end{document}
