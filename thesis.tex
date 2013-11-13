@@ -30,7 +30,7 @@ colorlinks=true % цветные гиперссылки
 % Включать подсекции в оглавление
 \setcounter{tocdepth}{2}
 
-\graphicspath{{fig/}}
+\graphicspath{{imgs/}}
 
 %----------------------------------------------------------------
 \begin{document}
@@ -76,27 +76,26 @@ colorlinks=true % цветные гиперссылки
 \tableofcontents
 
 % Введение
-\input{intro}
-
+\input{src/intro}
 % Глава 1
-\input{./texs/bm/bm01}
+\input{src/bm}
 % Глава 2
-\input{./texs/pm/pm01}
+\input{src/pm}
 % Глава 3
-\input{./texs/ibs/ibs01}
+\input{src/ibs}
 % Глава 4
-\input{./texs/agile/agile01}
+\input{src/agile}
 % Глава 5
-\input{./texs/misc/misc01}
-
+\input{src/misc}
 % Заключение
-\input{concl}
+\input{src/concl}
 
 % Список литературы
 \bibliographystyle{gost705}
-\bibliography{thesis,texs/pm/pm,texs/bm/bm,texs/ibs/ibs,texs/agile/agile,texs/misc/misc}
+\bibliography{thesis,src/pm,src/bm,src/ibs,src/agile,src/misc}
 
 \appendix
-\input{app-a.tex}
+\input{src/appendix-a.tex}
+\input{src/appendix-b.tex}
 
 \end{document}
