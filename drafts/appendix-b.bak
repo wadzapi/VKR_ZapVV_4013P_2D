@@ -1,0 +1,21 @@
+\chapter{}
+
+\begin{figure}[p]
+  \centering
+  \includegraphics[width=1\textwidth]{OMGBpmn01.jpg}
+  \caption{Основные элементы нотации OMG BPMN v.2.0 \cite{OMGBpmnRus_2011}}
+\end{figure}
+
+\begin{figure}[p]
+  \centering
+  \includegraphics[width=1\textwidth]{OMGBpmn02.jpg}
+  \caption{Продолжение. Основные элементы нотации OMG BPMN v.2.0 \cite{OMGBpmnRus_2011}}
+\end{figure}
+
+\begin{figure}[p]
+  \centering
+  \includegraphics[width=1\textwidth]{OMGBpmn03.jpg}
+  \caption{Продолжение. Основные элементы нотации OMG BPMN v.2.0 \cite{OMGBpmnRus_2011}}
+\end{figure}
+
+

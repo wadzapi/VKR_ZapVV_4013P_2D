@@ -16,6 +16,7 @@ colorlinks=true % цветные гиперссылки
 \usepackage[english,russian]{babel}
 \ifpdf\usepackage{epstopdf}\fi
 \usepackage{relsize}
+\usepackage{longtable}
 
 % Номера страниц снизу и по центру
 %\pagestyle{footcenter}
@@ -76,28 +77,31 @@ colorlinks=true % цветные гиперссылки
 \tableofcontents
 
 % Введение
-\input{src/intro}
-% Глава 0
-\input{src/sa}
+%\input{src/intro}
 % Глава 1
-\input{src/bm}
+\input{drafts/chap001}
 % Глава 2
-\input{src/pm}
 % Глава 3
-\input{src/ibs}
 % Глава 4
-\input{src/agile}
 % Глава 5
-\input{src/misc}
 % Заключение
-\input{src/concl}
+%\input{src/concl}
+
+
+%\input{src/sa}
+%\input{src/bm}
+%\input{src/pm}
+%\input{src/ibs}
+%\input{src/agile}
+%\input{src/misc}
 
 % Список литературы
 \bibliographystyle{gost705}
 \bibliography{thesis,src/sa,src/pm,src/bm,src/ibs,src/agile,src/misc}
 
 \appendix
-\input{src/appendix-a.tex}
-\input{src/appendix-b.tex}
+\input{drafts/appendix-a.tex}
+\input{drafts/appendix-b.tex}
+\input{drafts/appendix-c.tex}
 
 \end{document}
