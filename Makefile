@@ -3,7 +3,7 @@
 # Author: Stanislav Kruchinin <stanislav.kruchinin@gmail.com>
 #
 
-TARGET?=thesis
+TARGET?=VKR_ZapVV_4013P_2D
 
 
 include ./latex.mk

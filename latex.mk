@@ -3,8 +3,8 @@
 # Author: Stanislav Kruchinin <stanislav.kruchinin@gmail.com>
 #
 
-TARGET ?= thesis
-BIBFILE ?= thesis.bib
+TARGET ?= VKR_ZapVV_4013P_2D
+BIBFILE ?= VKR_ZapVV_4013P_2D.bib
 
 ARCH ?= 7z
 BIBTEX ?= bibtex8
