@@ -1,0 +1,2425 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  27 NOV 2013 16:29
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**VKR_ZapVV_4013P_2D.tex
+(./VKR_ZapVV_4013P_2D.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/etc/texmf/tex/latex/disser/disser.cls
+Document Class: disser 2012/11/29 1.2.0 Document class for dissertations
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texmf-texlive/tex/latex/base/exscale.sty
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\chapterindent=\skip41
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\footnoteindent=\skip44
+
+(/etc/texmf/tex/latex/disser/titledefs.rtx
+File: titledefs.rtx 
+\fieldhshift=\skip45
+)
+\bibindent=\dimen103
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+\symEulerExtension=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \intop on input line 1389.
+LaTeX Font Info:    Redeclaring math symbol \ointop on input line 1390.
+
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count100
+)
+(/usr/share/texmf-texlive/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen113
+\WF@size=\dimen114
+\c@WF@wrappedlines=\count101
+\WF@box=\box28
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used on input line 1068.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {{\captionlabelfont #1\captionlabeldelim } {\captionfont #2}
+}\ifdim \wd \@tempboxa >\hsize {{\captionlabelfont #1\captionlabeldelim } {\cap
+tionfont #2}}\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@te
+mpboxa \hfil }\fi \vskip \belowcaptionskip .
+
+Package caption Warning: Configuration file caption.cfg not found on input line
+ 253.
+See the caption package documentation for explanation.
+
+\c@ContinuedFloat=\count102
+Package caption Info: wrapfig package is loaded.
+) (/usr/share/texmf-texlive/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count103
+\sf@farskip=\skip51
+\sf@captopadj=\dimen121
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+
+
+Package subfig Warning: Configuration file subfig.cfg not found on input line 2
+97.
+
+\c@subfigure=\count104
+\c@subfigure@save=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@subtable@save=\count108
+\c@lotdepth=\count109
+\sf@top=\skip54
+\sf@bottom=\skip55
+) (/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen122
+\Hy@linkcounter=\count110
+\Hy@pagecounter=\count111
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 2864.
+Package hyperref Info: Option `unicode' set `true' on input line 2864.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/puenc.def
+File: puenc.def 2009/10/09 v6.79a Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count112
+\Field@Width=\dimen123
+\Fld@charsize=\dimen124
+\Field@toks=\toks21
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring ON on input line 4395.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count113
+\c@Item=\count114
+\c@Hfootnote=\count115
+)
+*hyperref using driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count116
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 1476.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 1476.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 1476
+.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count117
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/share/texmf-texlive/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 1495.
+)
+(/etc/texmf/tex/latex/disser/specialist.rtx
+File: specialist.rtx 
+)
+(/usr/share/texmf-texlive/tex/latex/txfonts/txfonts.sty
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+)
+(/usr/local/share/texmf/tex/latex/pscyr/pscyr.sty
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+\Gm@cnth=\count118
+\Gm@cntv=\count119
+\c@Gm@tempcnt=\count120
+\Gm@bindingoffset=\dimen127
+\Gm@wd@mp=\dimen128
+\Gm@odd@mp=\dimen129
+\Gm@even@mp=\dimen130
+\Gm@dimlist=\toks22
+
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>)
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+
+(/usr/share/texmf-texlive/tex/latex/cyrillic/cp1251.def
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+(/var/lib/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count121
+\U@D=\dimen131
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texmf-texlive/tex/generic/babel/russianb.ldf
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+Package babel Info: Making " an active character on input line 199.
+))
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2009/10/17 v2.4 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2009/10/17 v2.4 Base part for package epstopdf
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 433.
+
+(/usr/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2009/10/26 v1.1 Configuration of epstopdf for TeX Live
+)))
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip56
+\LTright=\skip57
+\LTpre=\skip58
+\LTpost=\skip59
+\LTchunksize=\count122
+\LTcapwidth=\dimen132
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count123
+\LT@rows=\count124
+\c@LT@tables=\count125
+\c@LT@chunks=\count126
+\LT@p@ftn=\toks25
+)
+(./VKR_ZapVV_4013P_2D.aux)
+\openout1 = `VKR_ZapVV_4013P_2D.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 37.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 37.
+
+
+(/usr/share/texmf-texlive/tex/latex/txfonts/omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 37.
+
+
+(/usr/share/texmf-texlive/tex/latex/txfonts/omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 37.
+
+
+(/usr/share/texmf-texlive/tex/latex/txfonts/omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 37.
+
+(/usr/share/texmf-texlive/tex/latex/txfonts/utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 37.
+
+(/usr/local/share/texmf/tex/latex/pscyr/t2aftm.fd
+File: t2aftm.fd 2004/10/14 Fontinst v1.914 font definitions for T2A/ftm.
+)
+LaTeX Info: Redefining \English on input line 37.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 37.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texmf-texlive/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 37.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count127
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+
+(./VKR_ZapVV_4013P_2D.out) (./VKR_ZapVV_4013P_2D.out)
+\@outlinefile=\write3
+\openout3 = `VKR_ZapVV_4013P_2D.out'.
+
+\AtBeginShipoutBox=\box33
+
+(/usr/share/texmf/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen133
+\scratchbox=\box34
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen134
+\MPnumerator=\count132
+\everyMPtoPDFconversion=\toks27
+)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: --
+asymmetric: --
+h-parts: 71.13188pt, 497.92325pt, 28.45274pt
+v-parts: 56.9055pt, 731.23584pt, 56.9055pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  497.92325pt
+\textheight 731.23584pt
+\oddsidemargin  -1.1381pt
+\evensidemargin -1.1381pt
+\topmargin  -49.28133pt
+\headheight 14.0pt
+\headsep    19.91684pt
+\footskip   28.45274pt
+\marginparwidth 15.0pt
+\marginparsep   10.0pt
+\columnsep  10.0pt
+\skip\footins  12.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+\firstskip=\skip60
+\secondskip=\skip61
+\thirdskip=\skip62
+\fourthskip=\skip63
+\fifthskip=\skip64
+\sixthskip=\skip65
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 75.
+(/usr/share/texmf-texlive/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+txsya on input line 75.
+ (/usr/share/texmf-texlive/tex/latex/txfonts/utxsya.fd
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 75.
+
+(/usr/share/texmf-texlive/tex/latex/txfonts/utxsyb.fd
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+euex on input line 75.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuex.fd
+File: ueuex.fd 2009/06/22 v3.00 Euler extra symbols
+)
+LaTeX Font Info:    Try loading font information for U+txmia on input line 75.
+
+(/usr/share/texmf-texlive/tex/latex/txfonts/utxmia.fd
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 75.
+
+(/usr/share/texmf-texlive/tex/latex/txfonts/utxsyc.fd
+File: utxsyc.fd 2000/12/15 v3.1
+) [1
+
+
+checksum mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored{/var/lib/texmf/fonts/map/pd
+ftex/updmap/pdftex.map
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `fcrb8r' already exists, duplicates ignored
+
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `fcrr8r' already exists, duplicates ignored
+
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `ftmb8r' already exists, duplicates ignored
+
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `ftmbi8r' already exists, duplicates ignored
+
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `ftmbo8r' already exists, duplicates ignored
+
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `ftmr8r' already exists, duplicates ignored
+
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `ftmri8r' already exists, duplicates ignored
+
+
+pdfTeX warning: pdflatex (file /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.ma
+p): fontmap entry for `ftmro8r' already exists, duplicates ignored
+}
+checksum mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+checksum mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+checksum mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+character width mismatch in font ftmbo6a.vf ignored
+checksum mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+checksum mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored] (./VKR_ZapVV_4013P_2D.toc
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
+
+(/usr/local/share/texmf/tex/latex/pscyr/ot1ftm.fd
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
+)
+Overfull \hbox (3.00095pt too wide) in paragraph at lines 16--16
+ \T2A/ftm/m/n/14.4 про^^?ект^^?ной де^^?я^^?тель^^?но^^?сти. Ос^^?нов^^?ные ме^
+^?то^^?до^^?ло^^?гии управ^^?ле^^?ния про^^? 
+ []
+
+[2
+
+
+])
+\tf@toc=\write4
+\openout4 = `VKR_ZapVV_4013P_2D.toc'.
+
+ [3] (./drafts/chap001.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+(./drafts/chap001/intro.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+) (./drafts/chap001/business_process.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 3.
+
+[4
+
+
+
+checksum mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+checksum mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+checksum mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored]
+Overfull \hbox (7.45357pt too wide) in paragraph at lines 12--13
+[]\T2A/ftm/m/n/14.4 ориентированы на про^^?цес^^?сы, пред^^?на^^?зна^^?чен^^?
+ []
+
+
+Overfull \hbox (3.3496pt too wide) in paragraph at lines 13--14
+[]\T2A/ftm/m/n/14.4 ориентированы на про^^?цес^^?сы, пред^^?на^^?зна^^?чен^^?
+ []
+
+
+Overfull \hbox (14.59601pt too wide) in paragraph at lines 14--15
+[]\T2A/ftm/m/n/14.4 --- про^^?цес^^?сы, охва^^?ты^^?ва^^?ю^^?щие весь ком^^?пле
+кс функ^^?
+ []
+
+[5]
+Overfull \hbox (27.4108pt too wide) in paragraph at lines 29--30
+[]\T2A/ftm/m/n/14.4 --- клас^^?си^^?фи^^?ка^^?ция Меж^^?ду^^?на^^?род^^?ной бен
+ч^^?
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 39.
+
+[6] [7]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 58.
+
+
+Overfull \hbox (10.68318pt too wide) in paragraph at lines 68--69
+\T2A/ftm/m/n/14.4 бен^^?но сто^^?ит вы^^?де^^?лить уни^^?вер^^?саль^^?ный язык 
+мо^^?де^^?ли^^?ро^^?ва^^?ния UML (Unified Modelind
+ []
+
+[8]
+Overfull \hbox (0.37486pt too wide) in paragraph at lines 78--79
+\T2A/ftm/m/n/14.4 Большинство из пе^^?ре^^?чис^^?лен^^?ных но^^?та^^?ций, за ис
+^^?клю^^?че^^?ни^^?ем неко^^?то^^?рых ви^^?дов UML
+ []
+
+[9]
+Overfull \hbox (5.7578pt too wide) in paragraph at lines 92--93
+\T2A/ftm/m/n/14.4 дей^^?ствий ор^^?кест^^?ров^^?ки раз^^?де^^?ле^^?ны на при^^?
+ват^^?ные вы^^?пол^^?ни^^?мые/невыполнимые
+ []
+
+[10]) (./drafts/chap001/process_management.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 3.
+
+[11] [12]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 24.
+
+[13] [14]
+
+Package natbib Warning: Citation `Hammer Champy_2006' on page 15 undefined on i
+nput line 43.
+
+[15]
+Overfull \hbox (12.68533pt too wide) in paragraph at lines 50--51
+\T2A/ftm/m/n/14.4 пол^^?нять \T2A/ftm/m/it/14.4 тре^^?бо^^?ва^^?ния рын^^?ка\T2
+A/ftm/m/n/14.4 , обос^^?но^^?вы^^?ва^^?ет невоз^^?мож^^?ность при^^?ме^^?не^^?н
+ия обычн
+ []
+
+[16] [17]
+Overfull \hbox (4.70206pt too wide) in paragraph at lines 80--81
+[]\T2A/ftm/m/n/14.4 --- стрем^^?ле^^?ние к
+ []
+
+[18]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 93.
+
+
+Overfull \hbox (12.32526pt too wide) in paragraph at lines 96--97
+\T2A/ftm/m/n/14.4 и об^^?ра^^?бот^^?ку ин^^?фор^^?ма^^?ции о де^^?я^^?тель^^?но
+^^?сти ор^^?га^^?ни^^?за^^?ции, осу^^?ществ^^?ле^^?ние управ^^?
+ []
+
+[19] [20]
+LaTeX Font Info:    Try loading font information for OMS+ftm on input line 112.
+
+LaTeX Font Info:    No file OMSftm.fd. on input line 112.
+
+
+LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
+(Font)              using `OMS/txsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 112.
+
+
+Overfull \hbox (4.43294pt too wide) in paragraph at lines 113--114
+[]\T2A/ftm/m/n/14.4 Функциональное опи^^?са^^?ние необ^^?хо^^?ди^^?мых клю^^?че
+^^?вых ком^^?по^^?нен^^?тов про^^?грамм^^?
+ []
+
+[21]) (./drafts/chap001/project_management.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 3.
+
+[22] [23]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 41.
+
+[24] [25]
+
+Package natbib Warning: Citation `GOST_51897-2011' on page 26 undefined on inpu
+t line 63.
+
+[26] [27]
+Overfull \hbox (0.81422pt too wide) in paragraph at lines 89--90
+[]\T2A/ftm/m/n/14.4 (probablistic event analysis, PEA) - учи^^?ты^^?ва^^?ет вза
+^^?
+ []
+
+[28]
+Overfull \hbox (2.82182pt too wide) in paragraph at lines 107--108
+\T2A/ftm/m/n/14.4 Одним из ос^^?нов^^?ных эле^^?мен^^?тов пла^^?ни^^?ро^^?ва^^?
+ния вре^^?мен^^?ных ре^^?сур^^?сов яв^^?ля^^?ет^^?ся оцен^^?
+ []
+
+[29]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 126.
+
+[30]
+
+Package natbib Warning: Citation `Ambler2007' on page 31 undefined on input lin
+e 146.
+
+[31] [32] [33]
+Overfull \hbox (8.32622pt too wide) in paragraph at lines 178--179
+\T2A/ftm/m/n/14.4 ра^^?бот^^?ки. В экс^^?тре^^?маль^^?ном про^^?грам^^?ми^^?ро^
+^?ва^^?нии ис^^?поль^^?зу^^?ют упро^^?щен^^?ные фор^^?
+ []
+
+[34]
+Overfull \hbox (0.70108pt too wide) in paragraph at lines 189--190
+[]\T2A/ftm/m/n/14.4 --- бе^^?реж^^?ли^^?вая раз^^?ра^^?бот^^?ка, ис^^?клю^^?че^
+^?ние по^^?те^^?ря, ак^^?цент на обу^^?
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 198.
+
+[35] [36]
+Overfull \hbox (2.38924pt too wide) in paragraph at lines 222--223
+[]\T2A/ftm/m/n/14.4 Системы пла^^?ни^^?ро^^?ва^^?ния и кон^^?тро^^?ля, обес^^?п
+е^^?чи^^?ва^^?ю^^?щие ин^^?стру^^?мен^^?ты для пла^^?
+ []
+
+
+Overfull \hbox (7.71835pt too wide) in paragraph at lines 224--225
+[]\T2A/ftm/m/n/14.4 Системы управ^^?ле^^?ния струк^^?ту^^?рой де^^?ком^^?по^^?з
+и^^?ции ра^^?бот (Work Breakdown
+ []
+
+
+Overfull \hbox (9.12955pt too wide) in paragraph at lines 231--232
+[]\T2A/ftm/m/n/14.4 Системы отоб^^?ра^^?же^^?ния клю^^?че^^?вых по^^?ка^^?за^^?
+те^^?лей эф^^?фек^^?тив^^?но^^?сти (executive
+ []
+
+[37]
+Overfull \hbox (0.86296pt too wide) in paragraph at lines 234--235
+[]\T2A/ftm/m/n/14.4 Системы управ^^?ле^^?ния до^^?ку^^?мен^^?та^^?ци^^?ей, обес
+^^?пе^^?чи^^?ва^^?ю^^?щие раз^^?ра^^?бот^^?ку и управ^^?
+ []
+
+
+Overfull \hbox (2.54869pt too wide) in paragraph at lines 235--236
+\T2A/ftm/m/n/14.4 биз^^?нес-^^?парт^^?не^^?ра^^?ми, по^^?ку^^?па^^?те^^?ля^^?ми
+, си^^?сте^^?мы стра^^?те^^?ги^^?че^^?ско^^?го пла^^?ни^^?ро^^?ва^^?ния. 
+ []
+
+) (./drafts/chap001/conclusion.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+)) (./drafts/chap002.tex [38]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+(./drafts/chap002/intro.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+) (./drafts/chap002/bpm_systems.tex
+Overfull \hbox (0.90263pt too wide) in paragraph at lines 9--10
+[]\T2A/ftm/m/n/14.4 --- по^^?стро^^?е^^?ние тран^^?зак^^?тов, гра^^?фи^^?че^^?с
+ких схем, опи^^?
+ []
+
+[39
+
+]
+Overfull \hbox (12.47807pt too wide) in paragraph at lines 12--13
+[]\T2A/ftm/m/n/14.4 --- ав^^?то^^?ма^^?ти^^?за^^?ция со^^?став^^?ле^^?ния от^^?
+
+ []
+
+
+Overfull \hbox (0.90263pt too wide) in paragraph at lines 19--20
+[]\T2A/ftm/m/n/14.4 --- по^^?стро^^?е^^?ние тран^^?зак^^?тов, гра^^?фи^^?че^^?с
+ких схем, опи^^?
+ []
+
+
+Overfull \hbox (12.47807pt too wide) in paragraph at lines 22--23
+[]\T2A/ftm/m/n/14.4 --- ав^^?то^^?ма^^?ти^^?за^^?ция со^^?став^^?ле^^?ния от^^?
+
+ []
+
+[40]
+
+Package natbib Warning: Citation `AleksandrovKistrov_2007' on page 41 undefined
+ on input line 28.
+
+
+Overfull \hbox (14.04874pt too wide) in paragraph at lines 30--31
+[]\T2A/ftm/m/n/14.4 (Build time), к ко^^?то^^?рым при^^?ня^^?то от^^?но^^?сить 
+функ^^?
+ []
+
+) (./drafts/chap002/conclusion.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+)) (./drafts/chap003.tex [41]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+(./drafts/chap003/intro.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+) (./drafts/chap003/requirements_analysis.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+) (./drafts/chap003/system_engineering.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+) (./drafts/chap003/conclusion.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+)) (./VKR_ZapVV_4013P_2D.bbl [42
+
+] [43
+
+]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 100
+.
+
+(/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 119--125
+\T2A/cmtt/m/n/14.4 ru / index . php / \T2A \ CYRK \ T2A \ cyro \ T2A \ cyrm \ T
+2A \ cyrp \ T2A \ cyra \ T2A \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--125
+\T2A/cmtt/m/n/14.4 cyrn \ T2A \ cyri \ T2A \ cyrya : 1 \ T2A \ CYRS _ \T2A \ CY
+RA \ T2A \ cyrk \ T2A \ cyrc \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--125
+\T2A/cmtt/m/n/14.4 T2A \ cyri \ T2A \ cyro \ T2A \ cyrn \ T2A \ cyre \ T2A \ cy
+rr \ T2A \ cyrn \ T2A \ cyro \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--125
+\T2A/cmtt/m/n/14.4 T2A \ cyre _ \T2A \ cyro \ T2A \ cyrb \ T2A \ cyrshch \ T2A 
+\ cyre \ T2A \ cyrs \ T2A \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+\T2A/cmtt/m/n/14.4 T2A \ cyro \ T2A \ cyrt \ T2A \ cyro \ T2A \ cyrk _ \T2A \ c
+yrr \ T2A \ cyra \ T2A \ cyrb \
+ []
+
+[44] [45]) (./drafts/appendix.tex (./drafts/appendix/BPMN_notation.tex [46]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T2A/ftm/m/n/12 Событие
+ []
+
+<imgs/bpmn_event.jpg, id=539, 69.861pt x 18.5493pt>
+File: imgs/bpmn_event.jpg Graphic file (type jpg)
+ <use imgs/bpmn_event.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\T2A/ftm/m/n/12 Действие
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 20--20
+\T2A/ftm/m/n/12 гут быть ли^^?бо эле^^?мен^^?тар^^?ны^^?ми, ли^^?бо
+ []
+
+<imgs/bpmn_activity.jpg, id=540, 68.8974pt x 30.8352pt>
+File: imgs/bpmn_activity.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_activity.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\T2A/ftm/m/n/12 Шлюз
+ []
+
+<imgs/bpmn_gateway.jpg, id=541, 68.8974pt x 20.2356pt>
+File: imgs/bpmn_gateway.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_gateway.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\T2A/ftm/m/n/12 Поток
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\T2A/ftm/m/n/12 опе^^?ра^^?ций
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+\T2A/ftm/m/n/12 (Sequence
+ []
+
+<imgs/bpmn_sequenceflow.jpg, id=542, 68.8974pt x 18.0675pt>
+File: imgs/bpmn_sequenceflow.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_sequenceflow.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\T2A/ftm/m/n/12 Поток со^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\T2A/ftm/m/n/12 об^^?ще^^?ний
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\T2A/ftm/m/n/12 (Message
+ []
+
+<imgs/bpmn_messageflow.jpg, id=543, 68.6565pt x 19.0311pt>
+File: imgs/bpmn_messageflow.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_messageflow.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T2A/ftm/m/n/12 Ассоциация
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 28--28
+[]|\T2A/ftm/m/n/12 Ассоциация слу^^?жит для уста^^?нов^^?ле^^?ния
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 28--28
+\T2A/ftm/m/n/12 мен^^?там по^^?то^^?ка) и эле^^?мен^^?та^^?ми по^^?то^^?ка.
+ []
+
+<imgs/bpmn_association.jpg, id=544, 69.1383pt x 19.272pt>
+File: imgs/bpmn_association.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_association.jpg>
+<imgs/bpmn_pool.jpg, id=545, 69.1383pt x 30.8352pt>
+File: imgs/bpmn_pool.jpg Graphic file (type jpg)
+ <use imgs/bpmn_pool.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T2A/ftm/m/n/12 Дорожка
+ []
+
+<imgs/bpmn_lane.jpg, id=546, 69.1383pt x 29.8716pt>
+File: imgs/bpmn_lane.jpg Graphic file (type jpg)
+ <use imgs/bpmn_lane.jpg>
+Underfull \hbox (badness 6641) in paragraph at lines 34--34
+[]|\T2A/ftm/m/n/12 Объект дан^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\T2A/ftm/m/n/12 ных (Data
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 34--34
+[]|\T2A/ftm/m/n/12 Объект дан^^?ных предо^^?став^^?ля^^?ет ин^^?фор^^?
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 34--34
+\T2A/ftm/m/n/12 в един^^?ствен^^?ном эк^^?зем^^?пля^^?ре, так и в
+ []
+
+<imgs/bpmn_dataobject.jpg, id=547, 69.3792pt x 25.2945pt>
+File: imgs/bpmn_dataobject.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_dataobject.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\T2A/ftm/m/n/12 Сообщение
+ []
+
+<imgs/bpmn_message.jpg, id=548, 69.1383pt x 19.5129pt>
+File: imgs/bpmn_message.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_message.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\T2A/ftm/m/n/12 со^^?дер^^?жа^^?щий
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\T2A/ftm/m/n/12 груп^^?пу объ^^?
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 38--38
+\T2A/ftm/m/n/12 ек^^?тов од^^?ной
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\T2A/ftm/m/n/12 ка^^?те^^?го^^?рии)
+ []
+
+<imgs/bpmn_group.jpg, id=549, 69.6201pt x 49.1436pt>
+File: imgs/bpmn_group.jpg Graphic file (type jpg)
+ <use imgs/bpmn_group.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T2A/ftm/m/n/12 Текстовая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T2A/ftm/m/n/12 ан^^?но^^?та^^?ция
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T2A/ftm/m/n/12 (свя^^?за^^?на с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T2A/ftm/m/n/12 ас^^?со^^?ци^^?а^^?ци^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\T2A/ftm/m/n/12 ей) (Text
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 40--40
+\T2A/ftm/m/n/12 биз^^?нес-^^?про^^?цес^^?са вво^^?дить до^^?пол^^?ни^^?тель^^?
+ []
+
+<imgs/bpmn_textannotation.jpg, id=550, 69.1383pt x 27.4626pt>
+File: imgs/bpmn_textannotation.jpg Graphic file (type jpg)
+
+<use imgs/bpmn_textannotation.jpg> [47
+
+
+checksum mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored
+character width mismatch in font ftmr6a.vf ignored <./imgs/bpmn_event.jpg> <./i
+mgs/bpmn_activity.jpg>] [48 <./imgs/bpmn_gateway.jpg> <./imgs/bpmn_sequenceflow
+.jpg> <./imgs/bpmn_messageflow.jpg> <./imgs/bpmn_association.jpg>] [49 <./imgs/
+bpmn_pool.jpg> <./imgs/bpmn_lane.jpg> <./imgs/bpmn_dataobject.jpg>])
+(./drafts/appendix/RBPvsCI.tex [50 <./imgs/bpmn_message.jpg> <./imgs/bpmn_group
+.jpg> <./imgs/bpmn_textannotation.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 12.0pt
+(hyperref)                replaced by space on input line 1.
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 12--12
+[]\T2A/ftm/m/n/14.4 Использование су^^?ще^^?ству^^?ю^^?щих ор^^?
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 14--14
+[]\T2A/ftm/m/n/14.4 Относительная ста^^?биль^^?ность при
+ []
+
+) (./drafts/appendix/WorkflowSystems.tex [51
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 12.0pt
+(hyperref)                replaced by space on input line 1.
+
+<imgs/img_001.jpg, id=576, 590.205pt x 698.61pt>
+File: imgs/img_001.jpg Graphic file (type jpg)
+ <use imgs/img_001.jpg>
+
+Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
+line 6.
+
+
+Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
+line 6.
+
+<imgs/img_002.jpg, id=577, 720.6925pt x 511.9125pt>
+File: imgs/img_002.jpg Graphic file (type jpg)
+ <use imgs/img_002.jpg>
+<imgs/img_003.jpg, id=580, 746.79pt x 480.79625pt>
+File: imgs/img_003.jpg Graphic file (type jpg)
+ <use imgs/img_003.jpg>
+
+Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
+line 18.
+
+
+Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
+line 18.
+
+))
+
+Package natbib Warning: There were undefined citations.
+
+[52
+
+] [53
+checksum mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored
+character width mismatch in font ftmb6a.vf ignored <./imgs/img_001.jpg>]
+[54 <./imgs/img_002.jpg> <./imgs/img_003.jpg>] (./VKR_ZapVV_4013P_2D.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10757 strings out of 493848
+ 151402 string characters out of 1152824
+ 242753 words of memory out of 3000000
+ 13509 multiletter control sequences out of 15000+50000
+ 37308 words of font info for 83 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 45i,10n,49p,2105b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf
+/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/texmf/fonts/type1/pub
+lic/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scala
+ble-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfo
+nts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/f
+tmri6w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1440.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/txfonts/txsy.pfb>
+Output written on VKR_ZapVV_4013P_2D.pdf (54 pages, 609963 bytes).
+PDF statistics:
+ 656 PDF objects out of 1000 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
+ 320 words of extra memory for PDF output out of 10000 (max. 10000000)
+
