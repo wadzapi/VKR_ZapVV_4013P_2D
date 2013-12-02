@@ -13,6 +13,8 @@
  * [(Thomson Reuters) Practise CS](http://cs.thomsonreuters.com/practise)
  * [Colosa Process Maker](http://www.processmaker.com/)
  * [Orglow](https://www.orglow.com/)
+ * [E1 Евфрат](http://evfrat.ru)
+ * [Сравнение др. продуктов и Евфрат](http://www.evfrat.ru/compare/)
  *
 
 
