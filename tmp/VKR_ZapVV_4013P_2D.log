@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  27 NOV 2013 16:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  2 DEC 2013 18:29
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1307,7 +1307,7 @@ LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
 (/usr/local/share/texmf/tex/latex/pscyr/ot1ftm.fd
 File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
 )
-Overfull \hbox (3.00095pt too wide) in paragraph at lines 16--16
+Overfull \hbox (3.00095pt too wide) in paragraph at lines 17--17
  \T2A/ftm/m/n/14.4 про^^?ект^^?ной де^^?я^^?тель^^?но^^?сти. Ос^^?нов^^?ные ме^
 ^?то^^?до^^?ло^^?гии управ^^?ле^^?ния про^^? 
  []
@@ -1315,11 +1315,17 @@ Overfull \hbox (3.00095pt too wide) in paragraph at lines 16--16
 [2
 
 
-])
+]
+Overfull \hbox (0.27939pt too wide) in paragraph at lines 54--54
+ [][] [][][]\T2A/ftm/m/n/14.4 Системы Workflow и про^^?цесс^^?ный под^^?ход. Пр
+ак^^?ти^^?ка внед^^? 
+ []
+
+[3])
 \tf@toc=\write4
 \openout4 = `VKR_ZapVV_4013P_2D.toc'.
 
- [3] (./drafts/chap001.tex
+ [4] (./drafts/chap001.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1340,9 +1346,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 3.
+(hyperref)                replaced by space on input line 6.
 
-[4
+[5
 
 
 
@@ -1624,57 +1630,46 @@ character width mismatch in font ftmb6a.vf ignored
 character width mismatch in font ftmb6a.vf ignored
 character width mismatch in font ftmb6a.vf ignored
 character width mismatch in font ftmb6a.vf ignored]
-Overfull \hbox (7.45357pt too wide) in paragraph at lines 12--13
+Overfull \hbox (7.45357pt too wide) in paragraph at lines 22--23
 []\T2A/ftm/m/n/14.4 ориентированы на про^^?цес^^?сы, пред^^?на^^?зна^^?чен^^?
  []
 
 
-Overfull \hbox (3.3496pt too wide) in paragraph at lines 13--14
+Overfull \hbox (3.3496pt too wide) in paragraph at lines 23--24
 []\T2A/ftm/m/n/14.4 ориентированы на про^^?цес^^?сы, пред^^?на^^?зна^^?чен^^?
  []
 
 
-Overfull \hbox (14.59601pt too wide) in paragraph at lines 14--15
+Overfull \hbox (14.59601pt too wide) in paragraph at lines 24--25
 []\T2A/ftm/m/n/14.4 --- про^^?цес^^?сы, охва^^?ты^^?ва^^?ю^^?щие весь ком^^?пле
 кс функ^^?
  []
 
-[5]
-Overfull \hbox (27.4108pt too wide) in paragraph at lines 29--30
+[6]
+Overfull \hbox (27.4108pt too wide) in paragraph at lines 37--38
 []\T2A/ftm/m/n/14.4 --- клас^^?си^^?фи^^?ка^^?ция Меж^^?ду^^?на^^?род^^?ной бен
 ч^^?
  []
 
+[7]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 39.
-
-[6] [7]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 58.
-
-
-Overfull \hbox (10.68318pt too wide) in paragraph at lines 68--69
-\T2A/ftm/m/n/14.4 бен^^?но сто^^?ит вы^^?де^^?лить уни^^?вер^^?саль^^?ный язык 
-мо^^?де^^?ли^^?ро^^?ва^^?ния UML (Unified Modelind
- []
+(hyperref)                replaced by space on input line 43.
 
 [8]
-Overfull \hbox (0.37486pt too wide) in paragraph at lines 78--79
-\T2A/ftm/m/n/14.4 Большинство из пе^^?ре^^?чис^^?лен^^?ных но^^?та^^?ций, за ис
-^^?клю^^?че^^?ни^^?ем неко^^?то^^?рых ви^^?дов UML
- []
 
-[9]
-Overfull \hbox (5.7578pt too wide) in paragraph at lines 92--93
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 68.
+
+[9] [10]
+Overfull \hbox (5.7578pt too wide) in paragraph at lines 108--109
 \T2A/ftm/m/n/14.4 дей^^?ствий ор^^?кест^^?ров^^?ки раз^^?де^^?ле^^?ны на при^^?
 ват^^?ные вы^^?пол^^?ни^^?мые/невыполнимые
  []
 
-[10]) (./drafts/chap001/process_management.tex
+[11]) (./drafts/chap001/process_management.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1683,60 +1678,93 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 3.
+(hyperref)                replaced by space on input line 6.
 
-[11] [12]
+[12] [13]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 24.
+(hyperref)                replaced by space on input line 28.
 
-[13] [14]
+[14] [15]
 
-Package natbib Warning: Citation `Hammer Champy_2006' on page 15 undefined on i
-nput line 43.
+Package natbib Warning: Citation `Hammer Champy_2006' on page 16 undefined on i
+nput line 50.
 
-[15]
-Overfull \hbox (12.68533pt too wide) in paragraph at lines 50--51
-\T2A/ftm/m/n/14.4 пол^^?нять \T2A/ftm/m/it/14.4 тре^^?бо^^?ва^^?ния рын^^?ка\T2
-A/ftm/m/n/14.4 , обос^^?но^^?вы^^?ва^^?ет невоз^^?мож^^?ность при^^?ме^^?не^^?н
-ия обычн
- []
+[16]
 
-[16] [17]
-Overfull \hbox (4.70206pt too wide) in paragraph at lines 80--81
-[]\T2A/ftm/m/n/14.4 --- стрем^^?ле^^?ние к
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 53.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 61.
+
+
+Package natbib Warning: Citation `Hammer Champy_2006' on page 17 undefined on i
+nput line 68.
+
+[17]
+Overfull \hbox (6.89203pt too wide) in paragraph at lines 76--77
+[]\T2A/ftm/m/n/14.4 предупреждает о по^^?след^^?стви^^?ях от^^?ка^^?за от ре^^?
+ин^^?жи^^?ни^^?рин^^?га, оце^^?
  []
 
 [18]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 93.
+(hyperref)                replaced by space on input line 84.
+
+[19] [20] [21]
+Overfull \hbox (14.14418pt too wide) in paragraph at lines 119--120
+[]\T2A/ftm/m/n/14.4 --- улуч^^?ше^^?ние по^^?ка^^?за^^?те^^?лей эф^^?фек^^?тив^
+^?но^^?сти про^^?
+ []
 
 
-Overfull \hbox (12.32526pt too wide) in paragraph at lines 96--97
+Overfull \hbox (21.01393pt too wide) in paragraph at lines 120--121
+[]\T2A/ftm/m/n/14.4 --- по^^?ощ^^?ре^^?ние но^^?вых идей про^^?дук^^?ции, стрем
+^^?
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 128.
+
+
+Overfull \hbox (4.32253pt too wide) in paragraph at lines 130--132
+[]\T2A/ftm/m/it/14.4 Информационные си^^?сте^^?мы ме^^?недж^^?мен^^?та. Ви^^?ды
+ и клас^^?си^^?фи^^?ка^^?ция про^^?грамм
+ []
+
+[22]
+
+Package natbib Warning: Citation `Lyandau_2013' on page 23 undefined on input l
+ine 134.
+
+
+Overfull \hbox (17.93568pt too wide) in paragraph at lines 137--138
+[]\T2A/ftm/m/n/14.4 --- пред^^?по^^?ла^^?га^^?ет вы^^?де^^?ле^^?ние в биз^^?нес
+-^^?про^^?цес^^?сах цель^^?
+ []
+
+
+Overfull \hbox (3.78716pt too wide) in paragraph at lines 139--140
+\T2A/ftm/m/n/14.4 си^^?стем^^?но, с вы^^?де^^?ле^^?ни^^?ем при^^?о^^?ри^^?те^^?
+тов, со^^?глас^^?но стра^^?ги^^?те^^?че^^?ским це^^?лям пред^^?
+ []
+
+
+Overfull \hbox (12.32526pt too wide) in paragraph at lines 144--145
 \T2A/ftm/m/n/14.4 и об^^?ра^^?бот^^?ку ин^^?фор^^?ма^^?ции о де^^?я^^?тель^^?но
 ^^?сти ор^^?га^^?ни^^?за^^?ции, осу^^?ществ^^?ле^^?ние управ^^?
  []
 
-[19] [20]
-LaTeX Font Info:    Try loading font information for OMS+ftm on input line 112.
-
-LaTeX Font Info:    No file OMSftm.fd. on input line 112.
-
-
-LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
-(Font)              using `OMS/txsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 112.
-
-
-Overfull \hbox (4.43294pt too wide) in paragraph at lines 113--114
-[]\T2A/ftm/m/n/14.4 Функциональное опи^^?са^^?ние необ^^?хо^^?ди^^?мых клю^^?че
-^^?вых ком^^?по^^?нен^^?тов про^^?грамм^^?
- []
-
-[21]) (./drafts/chap001/project_management.tex
+[23]) (./drafts/chap001/project_management.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1745,96 +1773,122 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 3.
+(hyperref)                replaced by space on input line 6.
 
-[22] [23]
+
+Overfull \hbox (3.38757pt too wide) in paragraph at lines 8--10
+[]\T2A/ftm/m/it/14.4 Теминологии управ^^?ле^^?ния про^^?ек^^?та^^?ми. По^^?ня^^
+?тие про^^?ек^^?та, про^^?ект^^?ной де^^?я^^?тель^^?
+ []
+
+[24] [25]
+Overfull \hbox (11.50494pt too wide) in paragraph at lines 38--39
+ \T2A/ftm/bx/n/14.4 Ор^^?га^^?ни^^?за^^?ция ком^^?му^^?ни^^?ка^^?ции про^^?ект^
+^?ной ко^^?ман^^?ды[] \T2A/ftm/m/n/14.4 Су^^?ще^^?ству^^?ют несколь^^?ко под^^?
+
+ []
+
+[26] [27]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 41.
+(hyperref)                replaced by space on input line 53.
 
-[24] [25]
 
-Package natbib Warning: Citation `GOST_51897-2011' on page 26 undefined on inpu
-t line 63.
-
-[26] [27]
-Overfull \hbox (0.81422pt too wide) in paragraph at lines 89--90
-[]\T2A/ftm/m/n/14.4 (probablistic event analysis, PEA) - учи^^?ты^^?ва^^?ет вза
-^^?
+Overfull \hbox (5.66179pt too wide) in paragraph at lines 55--57
+[]\T2A/ftm/m/it/14.4 Системный ана^^?лиз про^^?ект^^?но^^?го ме^^?недж^^?мен^^?
+та. При^^?ме^^?не^^?ние си^^?стем^^?но^^?го под^^?
  []
 
 [28]
-Overfull \hbox (2.82182pt too wide) in paragraph at lines 107--108
-\T2A/ftm/m/n/14.4 Одним из ос^^?нов^^?ных эле^^?мен^^?тов пла^^?ни^^?ро^^?ва^^?
-ния вре^^?мен^^?ных ре^^?сур^^?сов яв^^?ля^^?ет^^?ся оцен^^?
- []
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 83.
 
 [29]
 
+Package natbib Warning: Citation `GOST_51897-2011' on page 30 undefined on inpu
+t line 93.
+
+LaTeX Font Info:    Try loading font information for OMS+ftm on input line 99.
+LaTeX Font Info:    No file OMSftm.fd. on input line 99.
+
+LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
+(Font)              using `OMS/txsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 99.
+
+[30] [31] [32] [33]
+
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 126.
+(hyperref)                replaced by space on input line 152.
 
-[30]
-
-Package natbib Warning: Citation `Ambler2007' on page 31 undefined on input lin
-e 146.
-
-[31] [32] [33]
-Overfull \hbox (8.32622pt too wide) in paragraph at lines 178--179
-\T2A/ftm/m/n/14.4 ра^^?бот^^?ки. В экс^^?тре^^?маль^^?ном про^^?грам^^?ми^^?ро^
-^?ва^^?нии ис^^?поль^^?зу^^?ют упро^^?щен^^?ные фор^^?
+[34] [35] [36]
+Overfull \hbox (1.48112pt too wide) in paragraph at lines 196--197
+[]\T2A/ftm/m/n/14.4 Непосредственное об^^?ще^^?ние яв^^?ля^^?ет^^?ся наи^^?бо^^
+?лее эф^^?фек^^?тив^^?ным спо^^?со^^?бом вза^^?
  []
 
-[34]
-Overfull \hbox (0.70108pt too wide) in paragraph at lines 189--190
+[37]
+Overfull \hbox (3.90579pt too wide) in paragraph at lines 213--214
+[]\T2A/ftm/m/n/14.4 --- это дис^^?ци^^?
+ []
+
+[38]
+Overfull \hbox (1.52989pt too wide) in paragraph at lines 222--223
+[]\T2A/ftm/m/n/14.4 --- ите^^?ра^^?ци^^?он^^?ная раз^^?ра^^?бот^^?
+ []
+
+
+Overfull \hbox (3.04398pt too wide) in paragraph at lines 225--226
 []\T2A/ftm/m/n/14.4 --- бе^^?реж^^?ли^^?вая раз^^?ра^^?бот^^?ка, ис^^?клю^^?че^
-^?ние по^^?те^^?ря, ак^^?цент на обу^^?
+^?ние по^^?терь, ак^^?цент на обу^^?
  []
 
+[39]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 198.
+(hyperref)                replaced by space on input line 230.
 
-[35] [36]
-Overfull \hbox (2.38924pt too wide) in paragraph at lines 222--223
+[40]
+Overfull \hbox (2.38924pt too wide) in paragraph at lines 260--261
 []\T2A/ftm/m/n/14.4 Системы пла^^?ни^^?ро^^?ва^^?ния и кон^^?тро^^?ля, обес^^?п
 е^^?чи^^?ва^^?ю^^?щие ин^^?стру^^?мен^^?ты для пла^^?
  []
 
 
-Overfull \hbox (7.71835pt too wide) in paragraph at lines 224--225
-[]\T2A/ftm/m/n/14.4 Системы управ^^?ле^^?ния струк^^?ту^^?рой де^^?ком^^?по^^?з
+Overfull \hbox (4.50717pt too wide) in paragraph at lines 262--263
+[]\T2A/ftm/m/n/14.4 системы управ^^?ле^^?ния струк^^?ту^^?рой де^^?ком^^?по^^?з
 и^^?ции ра^^?бот (Work Breakdown
  []
 
-
-Overfull \hbox (9.12955pt too wide) in paragraph at lines 231--232
-[]\T2A/ftm/m/n/14.4 Системы отоб^^?ра^^?же^^?ния клю^^?че^^?вых по^^?ка^^?за^^?
+[41]
+Overfull \hbox (5.91837pt too wide) in paragraph at lines 269--270
+[]\T2A/ftm/m/n/14.4 системы отоб^^?ра^^?же^^?ния клю^^?че^^?вых по^^?ка^^?за^^?
 те^^?лей эф^^?фек^^?тив^^?но^^?сти (executive
  []
 
-[37]
-Overfull \hbox (0.86296pt too wide) in paragraph at lines 234--235
+
+Overfull \hbox (0.86296pt too wide) in paragraph at lines 272--273
 []\T2A/ftm/m/n/14.4 Системы управ^^?ле^^?ния до^^?ку^^?мен^^?та^^?ци^^?ей, обес
 ^^?пе^^?чи^^?ва^^?ю^^?щие раз^^?ра^^?бот^^?ку и управ^^?
  []
 
 
-Overfull \hbox (2.54869pt too wide) in paragraph at lines 235--236
+Overfull \hbox (2.54869pt too wide) in paragraph at lines 273--274
 \T2A/ftm/m/n/14.4 биз^^?нес-^^?парт^^?не^^?ра^^?ми, по^^?ку^^?па^^?те^^?ля^^?ми
 , си^^?сте^^?мы стра^^?те^^?ги^^?че^^?ско^^?го пла^^?ни^^?ро^^?ва^^?ния. 
  []
 
-) (./drafts/chap001/conclusion.tex
+[42]) (./drafts/chap001/conclusion.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-)) (./drafts/chap002.tex [38]
+)) (./drafts/chap002.tex [43]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1846,41 +1900,98 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-) (./drafts/chap002/bpm_systems.tex
-Overfull \hbox (0.90263pt too wide) in paragraph at lines 9--10
+) (./drafts/chap002/workflow.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 7.
+
+[44
+
+] [45] [46]
+Overfull \hbox (3.30313pt too wide) in paragraph at lines 44--45
 []\T2A/ftm/m/n/14.4 --- по^^?стро^^?е^^?ние тран^^?зак^^?тов, гра^^?фи^^?че^^?с
 ких схем, опи^^?
  []
 
-[39
-
-]
-Overfull \hbox (12.47807pt too wide) in paragraph at lines 12--13
-[]\T2A/ftm/m/n/14.4 --- ав^^?то^^?ма^^?ти^^?за^^?ция со^^?став^^?ле^^?ния от^^?
-
- []
-
-
-Overfull \hbox (0.90263pt too wide) in paragraph at lines 19--20
-[]\T2A/ftm/m/n/14.4 --- по^^?стро^^?е^^?ние тран^^?зак^^?тов, гра^^?фи^^?че^^?с
-ких схем, опи^^?
- []
-
-
-Overfull \hbox (12.47807pt too wide) in paragraph at lines 22--23
-[]\T2A/ftm/m/n/14.4 --- ав^^?то^^?ма^^?ти^^?за^^?ция со^^?став^^?ле^^?ния от^^?
-
- []
-
-[40]
-
-Package natbib Warning: Citation `AleksandrovKistrov_2007' on page 41 undefined
- on input line 28.
-
-
-Overfull \hbox (14.04874pt too wide) in paragraph at lines 30--31
+[47]
+Overfull \hbox (14.04874pt too wide) in paragraph at lines 55--56
 []\T2A/ftm/m/n/14.4 (Build time), к ко^^?то^^?рым при^^?ня^^?то от^^?но^^?сить 
 функ^^?
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 61.
+
+[48]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 73.
+
+
+Overfull \hbox (18.11469pt too wide) in paragraph at lines 81--83
+\T2A/ftm/m/n/14.4 (workflow) за^^?ни^^?ма^^?ет^^?ся неком^^?мер^^?че^^?ская ор^
+^?га^^?ни^^?за^^?ция Workflow Management Coalition
+ []
+
+[49]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 118.
+
+[50]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 128.
+
+[51]) (./drafts/chap002/bpm_systems.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 7.
+
+
+Overfull \hbox (16.64355pt too wide) in paragraph at lines 14--15
+[]\T2A/ftm/m/n/14.4 Жизненный цикл в прак^^?ти^^?ке управ^^?ле^^?ния биз^^?нес-
+^^?про^^?цес^^?са^^?ми, со^^?глас^^?но ABPMP
+ []
+
+[52]
+Overfull \hbox (15.90527pt too wide) in paragraph at lines 31--32
+[]\T2A/ftm/m/n/14.4 (discover model from event
+ []
+
+[53] [54]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 55.
+
+[55] [56] [57]) (./drafts/chap002/bpms_third_wave.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 1.
+
+
+Overfull \hbox (1.1163pt too wide) in paragraph at lines 3--5
+\T2A/ftm/m/n/14.4 ЭВО^^?ЛЮ^^?ЦИЯ WORKFLOW. ТРЕ^^?ТЬЕ ПО^^?КО^^?ЛЕ^^?НИЕ СИ^^?СТ
+ЕМ ПО КНИ^^?ГЕ СМИ^^?
  []
 
 ) (./drafts/chap002/conclusion.tex
@@ -1889,7 +2000,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-)) (./drafts/chap003.tex [41]
+)) (./drafts/chap003.tex [58]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1919,58 +2030,75 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-)) (./VKR_ZapVV_4013P_2D.bbl [42
+)) (./VKR_ZapVV_4013P_2D.bbl [59
 
-] [43
+] [60
 
 ]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 100
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 106
 .
 
 (/usr/share/texmf-texlive/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 119--125
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
 \T2A/cmtt/m/n/14.4 ru / index . php / \T2A \ CYRK \ T2A \ cyro \ T2A \ cyrm \ T
 2A \ cyrp \ T2A \ cyra \ T2A \
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--125
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
 \T2A/cmtt/m/n/14.4 cyrn \ T2A \ cyri \ T2A \ cyrya : 1 \ T2A \ CYRS _ \T2A \ CY
 RA \ T2A \ cyrk \ T2A \ cyrc \
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--125
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
 \T2A/cmtt/m/n/14.4 T2A \ cyri \ T2A \ cyro \ T2A \ cyrn \ T2A \ cyre \ T2A \ cy
 rr \ T2A \ cyrn \ T2A \ cyro \
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--125
+Underfull \hbox (badness 10000) in paragraph at lines 125--131
 \T2A/cmtt/m/n/14.4 T2A \ cyre _ \T2A \ cyro \ T2A \ cyrb \ T2A \ cyrshch \ T2A 
 \ cyre \ T2A \ cyrs \ T2A \
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
-\T2A/cmtt/m/n/14.4 T2A \ cyro \ T2A \ cyrt \ T2A \ cyro \ T2A \ cyrk _ \T2A \ c
-yrr \ T2A \ cyra \ T2A \ cyrb \
+[61] [62] [63]
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
+[]\T2A/ftm/m/n/14.4 Gartner IT Glos^^?sary. Busi^^?ness Pro^^?cess Man^^?age^^?
+ment Suites
  []
 
-[44] [45]) (./drafts/appendix.tex (./drafts/appendix/BPMN_notation.tex [46]
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--322
+\T2A/ftm/m/n/14.4 (BPMSs).  URL: [][]$\T2A/cmtt/m/n/14.4 http : / / www . gartn
+er . com / it-[]glossary /
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 325--328
+\T2A/ftm/m/n/14.4 URL: [][]$\T2A/cmtt/m/n/14.4 http : / / abpmp . org . ru / re
+source / bpm-[]glossary$[][] \T2A/ftm/m/n/14.4 (да^^?та об^^?ра^^?ще^^?ния:
+ []
+
+) (./drafts/appendix.tex (./drafts/appendix/BPMN_notation.tex [64]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \kern 2.4005pt
+(hyperref)                removed on input line 1.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T2A/ftm/m/n/12 Событие
  []
 
-<imgs/bpmn_event.jpg, id=539, 69.861pt x 18.5493pt>
+<imgs/bpmn_event.jpg, id=765, 69.861pt x 18.5493pt>
 File: imgs/bpmn_event.jpg Graphic file (type jpg)
  <use imgs/bpmn_event.jpg>
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
@@ -1982,7 +2110,7 @@ Underfull \hbox (badness 2443) in paragraph at lines 20--20
 \T2A/ftm/m/n/12 гут быть ли^^?бо эле^^?мен^^?тар^^?ны^^?ми, ли^^?бо
  []
 
-<imgs/bpmn_activity.jpg, id=540, 68.8974pt x 30.8352pt>
+<imgs/bpmn_activity.jpg, id=766, 68.8974pt x 30.8352pt>
 File: imgs/bpmn_activity.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_activity.jpg>
@@ -1990,7 +2118,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\T2A/ftm/m/n/12 Шлюз
  []
 
-<imgs/bpmn_gateway.jpg, id=541, 68.8974pt x 20.2356pt>
+<imgs/bpmn_gateway.jpg, id=767, 68.8974pt x 20.2356pt>
 File: imgs/bpmn_gateway.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_gateway.jpg>
@@ -2008,7 +2136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--24
 \T2A/ftm/m/n/12 (Sequence
  []
 
-<imgs/bpmn_sequenceflow.jpg, id=542, 68.8974pt x 18.0675pt>
+<imgs/bpmn_sequenceflow.jpg, id=768, 68.8974pt x 18.0675pt>
 File: imgs/bpmn_sequenceflow.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_sequenceflow.jpg>
@@ -2026,7 +2154,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 \T2A/ftm/m/n/12 (Message
  []
 
-<imgs/bpmn_messageflow.jpg, id=543, 68.6565pt x 19.0311pt>
+<imgs/bpmn_messageflow.jpg, id=769, 68.6565pt x 19.0311pt>
 File: imgs/bpmn_messageflow.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_messageflow.jpg>
@@ -2044,18 +2172,18 @@ Underfull \hbox (badness 1048) in paragraph at lines 28--28
 \T2A/ftm/m/n/12 мен^^?там по^^?то^^?ка) и эле^^?мен^^?та^^?ми по^^?то^^?ка.
  []
 
-<imgs/bpmn_association.jpg, id=544, 69.1383pt x 19.272pt>
+<imgs/bpmn_association.jpg, id=770, 69.1383pt x 19.272pt>
 File: imgs/bpmn_association.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_association.jpg>
-<imgs/bpmn_pool.jpg, id=545, 69.1383pt x 30.8352pt>
+<imgs/bpmn_pool.jpg, id=771, 69.1383pt x 30.8352pt>
 File: imgs/bpmn_pool.jpg Graphic file (type jpg)
  <use imgs/bpmn_pool.jpg>
 Underfull \hbox (badness 10000) in paragraph at lines 32--32
 []|\T2A/ftm/m/n/12 Дорожка
  []
 
-<imgs/bpmn_lane.jpg, id=546, 69.1383pt x 29.8716pt>
+<imgs/bpmn_lane.jpg, id=772, 69.1383pt x 29.8716pt>
 File: imgs/bpmn_lane.jpg Graphic file (type jpg)
  <use imgs/bpmn_lane.jpg>
 Underfull \hbox (badness 6641) in paragraph at lines 34--34
@@ -2077,7 +2205,7 @@ Underfull \hbox (badness 1838) in paragraph at lines 34--34
 \T2A/ftm/m/n/12 в един^^?ствен^^?ном эк^^?зем^^?пля^^?ре, так и в
  []
 
-<imgs/bpmn_dataobject.jpg, id=547, 69.3792pt x 25.2945pt>
+<imgs/bpmn_dataobject.jpg, id=773, 69.3792pt x 25.2945pt>
 File: imgs/bpmn_dataobject.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_dataobject.jpg>
@@ -2085,7 +2213,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []|\T2A/ftm/m/n/12 Сообщение
  []
 
-<imgs/bpmn_message.jpg, id=548, 69.1383pt x 19.5129pt>
+<imgs/bpmn_message.jpg, id=774, 69.1383pt x 19.5129pt>
 File: imgs/bpmn_message.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_message.jpg>
@@ -2108,7 +2236,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \T2A/ftm/m/n/12 ка^^?те^^?го^^?рии)
  []
 
-<imgs/bpmn_group.jpg, id=549, 69.6201pt x 49.1436pt>
+<imgs/bpmn_group.jpg, id=775, 69.6201pt x 49.1436pt>
 File: imgs/bpmn_group.jpg Graphic file (type jpg)
  <use imgs/bpmn_group.jpg>
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
@@ -2140,10 +2268,10 @@ Underfull \hbox (badness 1924) in paragraph at lines 40--40
 \T2A/ftm/m/n/12 биз^^?нес-^^?про^^?цес^^?са вво^^?дить до^^?пол^^?ни^^?тель^^?
  []
 
-<imgs/bpmn_textannotation.jpg, id=550, 69.1383pt x 27.4626pt>
+<imgs/bpmn_textannotation.jpg, id=776, 69.1383pt x 27.4626pt>
 File: imgs/bpmn_textannotation.jpg Graphic file (type jpg)
 
-<use imgs/bpmn_textannotation.jpg> [47
+<use imgs/bpmn_textannotation.jpg> [65
 
 
 checksum mismatch in font ftmr6a.vf ignored
@@ -2245,10 +2373,10 @@ character width mismatch in font ftmr6a.vf ignored
 character width mismatch in font ftmr6a.vf ignored
 character width mismatch in font ftmr6a.vf ignored
 character width mismatch in font ftmr6a.vf ignored <./imgs/bpmn_event.jpg> <./i
-mgs/bpmn_activity.jpg>] [48 <./imgs/bpmn_gateway.jpg> <./imgs/bpmn_sequenceflow
-.jpg> <./imgs/bpmn_messageflow.jpg> <./imgs/bpmn_association.jpg>] [49 <./imgs/
+mgs/bpmn_activity.jpg>] [66 <./imgs/bpmn_gateway.jpg> <./imgs/bpmn_sequenceflow
+.jpg> <./imgs/bpmn_messageflow.jpg> <./imgs/bpmn_association.jpg>] [67 <./imgs/
 bpmn_pool.jpg> <./imgs/bpmn_lane.jpg> <./imgs/bpmn_dataobject.jpg>])
-(./drafts/appendix/RBPvsCI.tex [50 <./imgs/bpmn_message.jpg> <./imgs/bpmn_group
+(./drafts/appendix/RBPvsCI.tex [68 <./imgs/bpmn_message.jpg> <./imgs/bpmn_group
 .jpg> <./imgs/bpmn_textannotation.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2256,16 +2384,16 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                replaced by space on input line 1.
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 12--12
+Underfull \hbox (badness 1478) in paragraph at lines 13--13
 []\T2A/ftm/m/n/14.4 Использование су^^?ще^^?ству^^?ю^^?щих ор^^?
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 14--14
+Underfull \hbox (badness 6268) in paragraph at lines 15--15
 []\T2A/ftm/m/n/14.4 Относительная ста^^?биль^^?ность при
  []
 
-) (./drafts/appendix/WorkflowSystems.tex [51
+) (./drafts/appendix/WorkflowSystems.tex [69
 
 ]
 
@@ -2273,143 +2401,125 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.0pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/img_001.jpg, id=576, 590.205pt x 698.61pt>
-File: imgs/img_001.jpg Graphic file (type jpg)
- <use imgs/img_001.jpg>
-
-Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
-line 6.
-
-
-Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
-line 6.
-
-<imgs/img_002.jpg, id=577, 720.6925pt x 511.9125pt>
-File: imgs/img_002.jpg Graphic file (type jpg)
- <use imgs/img_002.jpg>
-<imgs/img_003.jpg, id=580, 746.79pt x 480.79625pt>
-File: imgs/img_003.jpg Graphic file (type jpg)
- <use imgs/img_003.jpg>
-
-Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
-line 18.
-
-
-Package natbib Warning: Citation `WfMC_glossary' on page 52 undefined on input 
-line 18.
-
-))
+<imgs/wfmc_000.jpg, id=803, 296.5479pt x 181.8795pt>
+File: imgs/wfmc_000.jpg Graphic file (type jpg)
+ <use imgs/wfmc_000.jpg>
+<imgs/wfmc_001.jpg, id=806, 590.205pt x 698.61pt>
+File: imgs/wfmc_001.jpg Graphic file (type jpg)
+ <use imgs/wfmc_001.jpg>
+<imgs/wfmc_002.jpg, id=809, 720.6925pt x 511.9125pt>
+File: imgs/wfmc_002.jpg Graphic file (type jpg)
+ <use imgs/wfmc_002.jpg>
+<imgs/wfmc_003.jpg, id=812, 746.79pt x 480.79625pt>
+File: imgs/wfmc_003.jpg Graphic file (type jpg)
+ <use imgs/wfmc_003.jpg>))
 
 Package natbib Warning: There were undefined citations.
 
-[52
+[70
 
-] [53
-checksum mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored
-character width mismatch in font ftmb6a.vf ignored <./imgs/img_001.jpg>]
-[54 <./imgs/img_002.jpg> <./imgs/img_003.jpg>] (./VKR_ZapVV_4013P_2D.aux)
+
+checksum mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored
+character width mismatch in font ftmri6a.vf ignored] [71 <./imgs/wfmc_000.jpg>]
+[72 <./imgs/wfmc_001.jpg>] [73 <./imgs/wfmc_002.jpg> <./imgs/wfmc_003.jpg>]
+(./VKR_ZapVV_4013P_2D.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 10757 strings out of 493848
- 151402 string characters out of 1152824
- 242753 words of memory out of 3000000
- 13509 multiletter control sequences out of 15000+50000
- 37308 words of font info for 83 fonts, out of 3000000 for 9000
+ 10889 strings out of 493848
+ 153550 string characters out of 1152824
+ 244753 words of memory out of 3000000
+ 13570 multiletter control sequences out of 15000+50000
+ 38500 words of font info for 84 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 45i,10n,49p,2105b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,10n,49p,2105b,599s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf
 /fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/texmf/fonts/type1/pub
 lic/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scala
@@ -2417,9 +2527,9 @@ ble-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfo
 nts-tex/ftmr6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/f
 tmri6w.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1440.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/txfonts/txsy.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (54 pages, 609963 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (73 pages, 932236 bytes).
 PDF statistics:
- 656 PDF objects out of 1000 (max. 8388607)
- 168 named destinations out of 1000 (max. 500000)
- 320 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 912 PDF objects out of 1000 (max. 8388607)
+ 231 named destinations out of 1000 (max. 500000)
+ 437 words of extra memory for PDF output out of 10000 (max. 10000000)
 
