@@ -17,6 +17,31 @@ colorlinks=true % цветные гиперссылки
 \ifpdf\usepackage{epstopdf}\fi
 \usepackage{relsize}
 \usepackage{longtable}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Установка родного TTF шрифта
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareFontFamily{T2A}{times}{}%
+\DeclareFontShape{T2A}{times}{b}{n}{<->ectimesb}{}%
+\DeclareFontShape{T2A}{times}{b}{it}{<-> ectimesz}{}%
+%% bold extended (bx) are simply bold
+\DeclareFontShape{T2A}{times}{m}{n}{<-> ectimes}{}%
+\DeclareFontShape{T2A}{times}{m}{it}{<-> ectimesi}{}%
+\renewcommand{\rmdefault}{times}%
+\renewcommand{\sfdefault}{times}%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 % Номера страниц снизу и по центру
 %\pagestyle{footcenter}
