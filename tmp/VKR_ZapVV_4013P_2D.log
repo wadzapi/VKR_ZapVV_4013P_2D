@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  4 DEC 2013 16:40
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  4 DEC 2013 17:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -920,12 +920,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 141.
 
-[35] [36] [37]
-
-Package natbib Warning: Citation `Jeffries _2001' on page 38 undefined on input
- line 194.
-
-[38]
+[35] [36] [37] [38]
 Overfull \hbox (4.23683pt too wide) in paragraph at lines 203--204
 []\T2A/times/m/n/14.4 --- ите^^?ра^^?ци^^?он^^?ная раз^^?ра^^?бот^^?
  []
@@ -1130,7 +1125,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 )) (./VKR_ZapVV_4013P_2D.bbl [63] [64] [65
 
 ] [66] [67]
-Underfull \hbox (badness 2111) in paragraph at lines 319--323
+Underfull \hbox (badness 2111) in paragraph at lines 325--329
 \T2A/times/m/n/14.4 / / www . gartner . com / it-[]glossary / bpms-[]business-[
 ]process-[]management-[]suite$[][] ([]да^^?та
  []
@@ -1151,14 +1146,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
 []|\T2A/times/m/n/12 Событие
  []
 
-<imgs/bpmn_event.jpg, id=813, 69.861pt x 18.5493pt>
+<imgs/bpmn_event.jpg, id=817, 69.861pt x 18.5493pt>
 File: imgs/bpmn_event.jpg Graphic file (type jpg)
  <use imgs/bpmn_event.jpg>
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\T2A/times/m/n/12 Действие
  []
 
-<imgs/bpmn_activity.jpg, id=814, 68.8974pt x 30.8352pt>
+<imgs/bpmn_activity.jpg, id=818, 68.8974pt x 30.8352pt>
 File: imgs/bpmn_activity.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_activity.jpg>
@@ -1166,11 +1161,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\T2A/times/m/n/12 Шлюз
  []
 
-<imgs/bpmn_gateway.jpg, id=815, 68.8974pt x 20.2356pt>
+<imgs/bpmn_gateway.jpg, id=819, 68.8974pt x 20.2356pt>
 File: imgs/bpmn_gateway.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_gateway.jpg>
-<imgs/bpmn_sequenceflow.jpg, id=816, 68.8974pt x 18.0675pt>
+<imgs/bpmn_sequenceflow.jpg, id=820, 68.8974pt x 18.0675pt>
 File: imgs/bpmn_sequenceflow.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_sequenceflow.jpg>
@@ -1188,7 +1183,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--26
 \T2A/times/m/n/12 (Message
  []
 
-<imgs/bpmn_messageflow.jpg, id=817, 68.6565pt x 19.0311pt>
+<imgs/bpmn_messageflow.jpg, id=821, 68.6565pt x 19.0311pt>
 File: imgs/bpmn_messageflow.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_messageflow.jpg>
@@ -1196,18 +1191,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
 []|\T2A/times/m/n/12 Ассоциация
  []
 
-<imgs/bpmn_association.jpg, id=818, 69.1383pt x 19.272pt>
+<imgs/bpmn_association.jpg, id=822, 69.1383pt x 19.272pt>
 File: imgs/bpmn_association.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_association.jpg>
-<imgs/bpmn_pool.jpg, id=819, 69.1383pt x 30.8352pt>
+<imgs/bpmn_pool.jpg, id=823, 69.1383pt x 30.8352pt>
 File: imgs/bpmn_pool.jpg Graphic file (type jpg)
  <use imgs/bpmn_pool.jpg>
 Underfull \hbox (badness 10000) in paragraph at lines 32--32
 []|\T2A/times/m/n/12 Дорожка
  []
 
-<imgs/bpmn_lane.jpg, id=820, 69.1383pt x 29.8716pt>
+<imgs/bpmn_lane.jpg, id=824, 69.1383pt x 29.8716pt>
 File: imgs/bpmn_lane.jpg Graphic file (type jpg)
  <use imgs/bpmn_lane.jpg>
 Underfull \hbox (badness 1540) in paragraph at lines 34--34
@@ -1219,7 +1214,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 \T2A/times/m/n/12 ных (Data
  []
 
-<imgs/bpmn_dataobject.jpg, id=821, 69.3792pt x 25.2945pt>
+<imgs/bpmn_dataobject.jpg, id=825, 69.3792pt x 25.2945pt>
 File: imgs/bpmn_dataobject.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_dataobject.jpg>
@@ -1227,7 +1222,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []|\T2A/times/m/n/12 Сообщение
  []
 
-<imgs/bpmn_message.jpg, id=822, 69.1383pt x 19.5129pt>
+<imgs/bpmn_message.jpg, id=826, 69.1383pt x 19.5129pt>
 File: imgs/bpmn_message.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_message.jpg>
@@ -1250,14 +1245,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \T2A/times/m/n/12 ка^^?те^^?го^^?рии)
  []
 
-<imgs/bpmn_group.jpg, id=823, 69.6201pt x 49.1436pt>
+<imgs/bpmn_group.jpg, id=827, 69.6201pt x 49.1436pt>
 File: imgs/bpmn_group.jpg Graphic file (type jpg)
  <use imgs/bpmn_group.jpg>
 Underfull \hbox (badness 1215) in paragraph at lines 40--40
 \T2A/times/m/n/12 а^^?ци^^?ей) (Text
  []
 
-<imgs/bpmn_textannotation.jpg, id=824, 69.1383pt x 27.4626pt>
+<imgs/bpmn_textannotation.jpg, id=828, 69.1383pt x 27.4626pt>
 File: imgs/bpmn_textannotation.jpg Graphic file (type jpg)
 
 <use imgs/bpmn_textannotation.jpg> [70
@@ -1266,8 +1261,19 @@ File: imgs/bpmn_textannotation.jpg Graphic file (type jpg)
 pg> <./imgs/bpmn_sequenceflow.jpg> <./imgs/bpmn_messageflow.jpg> <./imgs/bpmn_a
 ssociation.jpg>] [72 <./imgs/bpmn_pool.jpg> <./imgs/bpmn_lane.jpg> <./imgs/bpmn
 _dataobject.jpg>])
-(./drafts/appendix/RBPvsCI.tex [73 <./imgs/bpmn_message.jpg> <./imgs/bpmn_group
-.jpg> <./imgs/bpmn_textannotation.jpg>]
+(./drafts/appendix/DemingCycle.tex [73 <./imgs/bpmn_message.jpg> <./imgs/bpmn_g
+roup.jpg> <./imgs/bpmn_textannotation.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 12.0pt
+(hyperref)                replaced by space on input line 1.
+
+<imgs/deming_cycle.jpg, id=847, 335.0919pt x 187.4202pt>
+File: imgs/deming_cycle.jpg Graphic file (type jpg)
+
+<use imgs/deming_cycle.jpg>) (./drafts/appendix/RBPvsCI.tex [74
+
+ <./imgs/deming_cycle.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.0pt
@@ -1278,7 +1284,7 @@ Underfull \hbox (badness 1895) in paragraph at lines 15--15
 []\T2A/times/m/n/14.4 Относительная ста^^?биль^^?ность при
  []
 
-) (./drafts/appendix/WorkflowSystems.tex [74
+) (./drafts/appendix/WorkflowSystems.tex [75
 
 ]
 
@@ -1286,37 +1292,31 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.0pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/wfmc_000.jpg, id=851, 296.5479pt x 181.8795pt>
+<imgs/wfmc_000.jpg, id=862, 296.5479pt x 181.8795pt>
 File: imgs/wfmc_000.jpg Graphic file (type jpg)
  <use imgs/wfmc_000.jpg>
-<imgs/wfmc_001.jpg, id=854, 590.205pt x 698.61pt>
+<imgs/wfmc_001.jpg, id=865, 590.205pt x 698.61pt>
 File: imgs/wfmc_001.jpg Graphic file (type jpg)
  <use imgs/wfmc_001.jpg>
-<imgs/wfmc_002.jpg, id=857, 720.6925pt x 511.9125pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<imgs/wfmc_002.jpg, id=868, 720.6925pt x 511.9125pt>
 File: imgs/wfmc_002.jpg Graphic file (type jpg)
  <use imgs/wfmc_002.jpg>
-<imgs/wfmc_003.jpg, id=860, 746.79pt x 480.79625pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<imgs/wfmc_003.jpg, id=871, 746.79pt x 480.79625pt>
 File: imgs/wfmc_003.jpg Graphic file (type jpg)
- <use imgs/wfmc_003.jpg>)
-(./drafts/appendix/DemingCycle.tex [75
+ <use imgs/wfmc_003.jpg>
 
-] [76 <./imgs/wfmc_000.jpg>] [77 <./imgs/wfmc_001.jpg>] [78 <./imgs/wfmc_002.jp
-g> <./imgs/wfmc_003.jpg>]
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 12.0pt
-(hyperref)                replaced by space on input line 1.
+)) [76
 
-<imgs/deming_cycle.jpg, id=883, 335.0919pt x 187.4202pt>
-File: imgs/deming_cycle.jpg Graphic file (type jpg)
-
-<use imgs/deming_cycle.jpg>))
-
-Package natbib Warning: There were undefined citations.
-
-[79
-
-] [80 <./imgs/deming_cycle.jpg>] (./VKR_ZapVV_4013P_2D.aux)
+ <./imgs/wfmc_000.jpg>] [77 <./imgs/wfmc_001.jpg>] [78 <./imgs/wfmc_002.jpg> <.
+/imgs/wfmc_003.jpg>] (./VKR_ZapVV_4013P_2D.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1325,11 +1325,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10866 strings out of 493848
- 153270 string characters out of 1152824
+ 10865 strings out of 493848
+ 153288 string characters out of 1152824
  237760 words of memory out of 3000000
- 13559 multiletter control sequences out of 15000+50000
- 19263 words of font info for 60 fonts, out of 3000000 for 9000
+ 13560 multiletter control sequences out of 15000+50000
+ 18847 words of font info for 59 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,10n,49p,2105b,608s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/share/texmf/fonts/enc/dvips/pscyr/t2a.enc}
@@ -1357,9 +1357,9 @@ anPS-BoldMT' (ectimesbd) (I'm using 34): fix your map entry.
 pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
  I suppose it is available to your PDF viewer then
 </usr/share/texmf-texlive/fonts/type1/public/txfonts/txsy.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (80 pages, 1063979 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (78 pages, 1063158 bytes).
 PDF statistics:
- 964 PDF objects out of 1000 (max. 8388607)
- 246 named destinations out of 1000 (max. 500000)
+ 958 PDF objects out of 1000 (max. 8388607)
+ 245 named destinations out of 1000 (max. 500000)
  474 words of extra memory for PDF output out of 10000 (max. 10000000)
 
