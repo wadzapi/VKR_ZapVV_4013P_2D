@@ -21,9 +21,11 @@ colorlinks=true % цветные гиперссылки
 % Установка родного TTF шрифта
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \DeclareFontFamily{T2A}{times}{}%
-\DeclareFontShape{T2A}{times}{b}{n}{<->ectimesb}{}%
+\DeclareFontShape{T2A}{times}{b}{n}{<->ectimesbd}{}%
 \DeclareFontShape{T2A}{times}{b}{it}{<-> ectimesz}{}%
 %% bold extended (bx) are simply bold
+\DeclareFontShape{T2A}{times}{bx}{n}{<->ssub * times/b/n}{}%
+\DeclareFontShape{T2A}{times}{bx}{it}{<->ssub * times/b/it}{}%
 \DeclareFontShape{T2A}{times}{m}{n}{<-> ectimes}{}%
 \DeclareFontShape{T2A}{times}{m}{it}{<-> ectimesi}{}%
 \renewcommand{\rmdefault}{times}%
