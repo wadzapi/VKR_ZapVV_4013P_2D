@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  18 DEC 2013 23:55
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 00:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -532,11 +532,12 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LT@p@ftn=\toks25
 )
 (/usr/share/texmf-texlive/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2009/05/18 v2.2 Customized lists
-\enit@toks=\toks26
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip60
 \enit@outerparindent=\dimen133
-\enitdp@desc=\count127
+\enit@toks=\toks26
+\enit@inbox=\box33
+\enitdp@description=\count127
 )
 (./VKR_ZapVV_4013P_2D.aux)
 \openout1 = `VKR_ZapVV_4013P_2D.aux'.
@@ -610,13 +611,13 @@ LaTeX Info: Redefining \pageref on input line 66.
 \@outlinefile=\write3
 \openout3 = `VKR_ZapVV_4013P_2D.out'.
 
-\AtBeginShipoutBox=\box33
+\AtBeginShipoutBox=\box34
 
 (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count129
 \scratchdimen=\dimen134
-\scratchbox=\box34
+\scratchbox=\box35
 \nofMPsegments=\count130
 \nofMParguments=\count131
 \everyMPshowfont=\toks27
@@ -1083,10 +1084,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 10964 strings out of 493848
- 155515 string characters out of 1152824
- 227760 words of memory out of 3000000
- 13669 multiletter control sequences out of 15000+50000
+ 11098 strings out of 493848
+ 157917 string characters out of 1152824
+ 228002 words of memory out of 3000000
+ 13803 multiletter control sequences out of 15000+50000
  23208 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1149b,695s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1119,7 +1120,7 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (44 pages, 233170 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (44 pages, 232959 bytes).
 PDF statistics:
  706 PDF objects out of 1000 (max. 8388607)
  208 named destinations out of 1000 (max. 500000)
