@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 03:55
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 04:53
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1066,11 +1066,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11090 strings out of 493848
- 157793 string characters out of 1152824
- 227983 words of memory out of 3000000
- 13798 multiletter control sequences out of 15000+50000
- 23208 words of font info for 66 fonts, out of 3000000 for 9000
+ 11088 strings out of 493848
+ 157759 string characters out of 1152824
+ 227981 words of memory out of 3000000
+ 13797 multiletter control sequences out of 15000+50000
+ 22915 words of font info for 65 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1112b,695s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}{/usr/local/share/texmf
@@ -1102,7 +1102,7 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (43 pages, 231546 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (43 pages, 231627 bytes).
 PDF statistics:
  695 PDF objects out of 1000 (max. 8388607)
  205 named destinations out of 1000 (max. 500000)
