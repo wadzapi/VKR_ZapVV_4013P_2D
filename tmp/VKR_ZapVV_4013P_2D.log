@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 14:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 18:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -690,9 +690,6 @@ LaTeX Font Warning: Font shape `T2A/times/m/sl' undefined
 LaTeX Font Info:    Font shape `T2A/times/bx/sl' in size <17.28> not available
 (Font)              Font shape `T2A/times/b/n' tried instead on input line 104.
 
-LaTeX Font Info:    Font shape `T2A/times/bx/sl' in size <14.4> not available
-(Font)              Font shape `T2A/times/b/n' tried instead on input line 104.
-
 LaTeX Font Info:    Font shape `T2A/times/bx/n' in size <14.4> not available
 (Font)              Font shape `T2A/times/b/n' tried instead on input line 104.
 
@@ -797,7 +794,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-(./drafts/chap001/intro.tex)
+(./drafts/chap001/chap001_intro.tex)
 LaTeX Font Info:    Font shape `T2A/times/bx/n' in size <17.28> not available
 (Font)              Font shape `T2A/times/b/n' tried instead on input line 4.
 
@@ -902,13 +899,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 8.
 
-(./drafts/chap001/pm_systems.tex [20]))) (./drafts/chap002.tex [21]
+(./drafts/chap001/pm_systems.tex [20]))
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 16.
+
+(./drafts/chap001/chap001_concl.tex)) (./drafts/chap002.tex [21]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-(./drafts/chap002/intro.tex)
+(./drafts/chap002/chap002_intro.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -974,15 +977,62 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 29.
 
-(./drafts/chap002/research_concl.tex) [31]) (./drafts/chap003.tex [32]
+(./drafts/chap002/research_concl.tex) [31]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 32.
+
+(./drafts/chap002/chap002_concl.tex)) (./drafts/chap003.tex [32]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-) (./drafts/concl.tex [33
+(./drafts/chap003/chap003_intro.tex)
 
-]) (./VKR_ZapVV_4013P_2D.bbl [34
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 3.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 4.
+
+(./drafts/chap003/enterprise_architect.tex)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 6.
+
+(./drafts/chap003/bpms_architect.tex)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 8.
+
+(./drafts/chap003/decentr_architect.tex)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 10.
+
+(./drafts/chap003/veram_architect.tex)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 13.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 16.
+
+(./drafts/chap003/chap003_concl.tex)) (./drafts/concl.tex [33
+
+])
+(./VKR_ZapVV_4013P_2D.bbl [34
 
 ] [35
 
@@ -1034,7 +1084,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=614, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=659, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
 <use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [42
@@ -1074,10 +1124,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11096 strings out of 493848
- 157932 string characters out of 1152824
+ 11139 strings out of 493848
+ 158899 string characters out of 1152824
  227981 words of memory out of 3000000
- 13798 multiletter control sequences out of 15000+50000
+ 13806 multiletter control sequences out of 15000+50000
  22915 words of font info for 65 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1112b,695s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1110,9 +1160,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (44 pages, 234925 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (44 pages, 242760 bytes).
 PDF statistics:
- 706 PDF objects out of 1000 (max. 8388607)
- 207 named destinations out of 1000 (max. 500000)
- 290 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 752 PDF objects out of 1000 (max. 8388607)
+ 216 named destinations out of 1000 (max. 500000)
+ 362 words of extra memory for PDF output out of 10000 (max. 10000000)
 
