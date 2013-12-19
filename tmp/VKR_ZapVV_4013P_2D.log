@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 04:53
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 14:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -797,12 +797,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
+(./drafts/chap001/intro.tex)
 LaTeX Font Info:    Font shape `T2A/times/bx/n' in size <17.28> not available
-(Font)              Font shape `T2A/times/b/n' tried instead on input line 3.
+(Font)              Font shape `T2A/times/b/n' tried instead on input line 4.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 3.
+(hyperref)                replaced by space on input line 4.
 
 (./drafts/chap001/business_process.tex
 
@@ -828,7 +830,7 @@ Overfull \hbox (15.70479pt too wide) in paragraph at lines 7--8
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 6.
+(hyperref)                replaced by space on input line 7.
 
 (./drafts/chap001/business_organization.tex
 
@@ -846,7 +848,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 9.
+(hyperref)                replaced by space on input line 10.
 
 (./drafts/chap001/modeling.tex
 
@@ -880,7 +882,7 @@ LaTeX Font Warning: Font shape `OMS/times/m/n' undefined
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 12.
+(hyperref)                replaced by space on input line 13.
 
 (./drafts/chap001/management_systems.tex
 
@@ -966,25 +968,31 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 27.
 
-(./drafts/chap002/research_results.tex [30])) (./drafts/chap003.tex [31]
+(./drafts/chap002/research_results.tex [30])
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 29.
+
+(./drafts/chap002/research_concl.tex) [31]) (./drafts/chap003.tex [32]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-) (./drafts/concl.tex [32
+) (./drafts/concl.tex [33
 
-]) (./VKR_ZapVV_4013P_2D.bbl [33
+]) (./VKR_ZapVV_4013P_2D.bbl [34
 
-] [34
+] [35
 
-] [35]
+] [36]
 Underfull \hbox (badness 1092) in paragraph at lines 194--200
 \T2A/times/m/n/14.4 форма организации внешнеэкономической деятельности компании
  //
  []
 
-[36] [37] [38]
+[37] [38] [39]
 Underfull \hbox (badness 10000) in paragraph at lines 385--389
 []\T2A/times/m/n/14.4 OpenText MBPM.  URL: [][]$http : / / www . opentext . com
  / What-[]We-[]Do /
@@ -1020,16 +1028,16 @@ Underfull \hbox (badness 1478) in paragraph at lines 422--424
 com/$[][] ([]да^^?та об^^?ра^^?ще^^?ния[]:
  []
 
-[39]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [40]
+[40]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [41]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=603, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=614, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [41
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [42
 
  <./imgs/deming_cycle.png>]
 
@@ -1046,7 +1054,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[42
+[43
 
 ]
 
@@ -1058,7 +1066,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-)) [43
+)) [44
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
@@ -1066,10 +1074,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11088 strings out of 493848
- 157759 string characters out of 1152824
+ 11096 strings out of 493848
+ 157932 string characters out of 1152824
  227981 words of memory out of 3000000
- 13797 multiletter control sequences out of 15000+50000
+ 13798 multiletter control sequences out of 15000+50000
  22915 words of font info for 65 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1112b,695s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1102,9 +1110,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (43 pages, 231627 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (44 pages, 234925 bytes).
 PDF statistics:
- 695 PDF objects out of 1000 (max. 8388607)
- 205 named destinations out of 1000 (max. 500000)
- 282 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 706 PDF objects out of 1000 (max. 8388607)
+ 207 named destinations out of 1000 (max. 500000)
+ 290 words of extra memory for PDF output out of 10000 (max. 10000000)
 
