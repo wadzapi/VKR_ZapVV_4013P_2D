@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  20 DEC 2013 20:21
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  20 DEC 2013 22:19
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1004,28 +1004,42 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                replaced by space on input line 14.
 
 (./drafts/chap003/bpms_vision.tex
+
+LaTeX Warning: Reference `bpms_vision' on page 36 undefined on input line 1.
+
 <imgs/bpms_vision.png, id=630, 434.5836pt x 428.802pt>
 File: imgs/bpms_vision.png Graphic file (type png)
 
-<use imgs/bpms_vision.png>)
+<use imgs/bpms_vision.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<imgs/case_001.png, id=632, 525.965pt x 75.28125pt>
+File: imgs/case_001.png Graphic file (type png)
+ <use imgs/case_001.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 16.
 
-(./drafts/chap003/bpms_components.tex [36 <./imgs/bpms_vision.png>]
+(./drafts/chap003/bpms_components.tex [37 <./imgs/bpms_vision.png> <./imgs/case
+_001.png (PNG copy)>]
 
-LaTeX Warning: Reference `activiti_architect' on page 37 undefined on input lin
+LaTeX Warning: Reference `activiti_architect' on page 38 undefined on input lin
 e 12.
 
-<imgs/activiti_architect.png, id=643, 517.6941pt x 255.5949pt>
+<imgs/activiti_architect.png, id=652, 517.6941pt x 255.5949pt>
 File: imgs/activiti_architect.png Graphic file (type png)
 
 <use imgs/activiti_architect.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[37]
+[38]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1037,21 +1051,13 @@ Overfull \hbox (3.14949pt too wide) in paragraph at lines 24--25
 н^^?ной си^^?сте^^?мы вза^^?и^^?мо^^?дей^^?ствие меж^^?ду участ^^?
  []
 
-
-Package natbib Warning: Citation `gitURL' on page 38 undefined on input line 26
-.
-
-
-Package natbib Warning: Citation `ArhitectOpenSource' on page 38 undefined on i
-nput line 26.
-
-[38 <./imgs/activiti_architect.png>]
+[39 <./imgs/activiti_architect.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 29.
 
-[39])
+[40])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1063,18 +1069,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 20.
 
-(./drafts/chap003/analysis.tex)) (./drafts/concl.tex [40])
-(./VKR_ZapVV_4013P_2D.bbl [41
+(./drafts/chap003/analysis.tex)) (./drafts/concl.tex [41])
+(./VKR_ZapVV_4013P_2D.bbl [42
 
-] [42
+] [43
 
-] [43]
+] [44]
 Underfull \hbox (badness 1092) in paragraph at lines 194--200
 \T2A/times/m/n/14.4 форма организации внешнеэкономической деятельности компании
  //
  []
 
-[44] [45] [46]
+[45] [46] [47]
 Underfull \hbox (badness 10000) in paragraph at lines 385--389
 []\T2A/times/m/n/14.4 OpenText MBPM.  URL: []$http : / / www . opentext . com /
  What-[]We-[]Do /
@@ -1110,16 +1116,16 @@ Underfull \hbox (badness 1478) in paragraph at lines 422--424
 m/$[] ([]да^^?та об^^?ра^^?ще^^?ния[]:
  []
 
-[47]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [48]
+[48]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [49]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=739, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=757, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [49
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [50
 
  <./imgs/deming_cycle.png>]
 
@@ -1136,7 +1142,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[50
+[51
 
 ]
 
@@ -1148,11 +1154,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-))
-
-Package natbib Warning: There were undefined citations.
-
-[51
+)) [52
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
@@ -1163,10 +1165,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11168 strings out of 493848
- 159647 string characters out of 1152824
- 227263 words of memory out of 3000000
- 13808 multiletter control sequences out of 15000+50000
+ 11185 strings out of 493848
+ 159946 string characters out of 1152824
+ 227295 words of memory out of 3000000
+ 13817 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1112b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1199,9 +1201,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (51 pages, 636489 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (52 pages, 643319 bytes).
 PDF statistics:
- 838 PDF objects out of 1000 (max. 8388607)
- 239 named destinations out of 1000 (max. 500000)
- 396 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 856 PDF objects out of 1000 (max. 8388607)
+ 246 named destinations out of 1000 (max. 500000)
+ 401 words of extra memory for PDF output out of 10000 (max. 10000000)
 
