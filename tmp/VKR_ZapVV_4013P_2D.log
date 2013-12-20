@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  19 DEC 2013 18:49
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  20 DEC 2013 07:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -243,7 +243,7 @@ File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
 (/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 2864.
+Package hyperref Info: Option `colorlinks' set `false' on input line 2864.
 Package hyperref Info: Option `unicode' set `true' on input line 2864.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/puenc.def
@@ -296,7 +296,7 @@ Package hyperref Info: Hyper figures OFF on input line 4377.
 Package hyperref Info: Link nesting OFF on input line 4382.
 Package hyperref Info: Hyper index ON on input line 4385.
 Package hyperref Info: backreferencing OFF on input line 4392.
-Package hyperref Info: Link coloring ON on input line 4395.
+Package hyperref Info: Link coloring OFF on input line 4397.
 Package hyperref Info: Link coloring with OCG OFF on input line 4402.
 Package hyperref Info: PDF/A mode OFF on input line 4407.
 
@@ -340,17 +340,7 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 )
 (/usr/share/texmf-texlive/tex/latex/cmap/cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
-)
-(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-(/etc/texmf/tex/latex/config/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 130.
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 1495.
-)
+))
 (/etc/texmf/tex/latex/disser/specialist.rtx
 File: specialist.rtx 
 )
@@ -594,7 +584,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 66.
+Package hyperref Info: Link coloring OFF on input line 66.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -817,13 +807,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 (./drafts/chap001/bp_classes.tex [7
 
-]
-Overfull \hbox (15.70479pt too wide) in paragraph at lines 7--8
-[]\T2A/times/m/n/14.4 ^^Vпроцессы, охва^^?ты^^?ва^^?ю^^?щие весь ком^^?плекс фу
-нк^^?
- []
-
-[8]))
+] [8]))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -893,19 +877,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 5.
 
-(./drafts/chap001/bpm_systems.tex [18] [19])
+(./drafts/chap001/bpm_systems.tex [18])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 8.
 
-(./drafts/chap001/pm_systems.tex [20]))
+(./drafts/chap001/pm_systems.tex [19]))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 16.
 
-(./drafts/chap001/chap001_concl.tex)) (./drafts/chap002.tex [21]
+(./drafts/chap001/chap001_concl.tex)) (./drafts/chap002.tex [20]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -922,23 +906,23 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap002/virtual_enterprise.tex [22
+(./drafts/chap002/virtual_enterprise.tex [21
 
 ])
-(./drafts/chap002/virtual_team.tex [23])
+(./drafts/chap002/virtual_team.tex [22])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 11.
 
-(./drafts/chap002/knowledge_management.tex [24])
+(./drafts/chap002/knowledge_management.tex [23])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 13.
 
-(./drafts/chap002/agile_bp.tex [25]) (./drafts/chap002/adaptive_workflow.tex)
-(./drafts/chap002/bp_lifecycle.tex [26]) (./drafts/chap002/patterns.tex)
+(./drafts/chap002/agile_bp.tex [24]) (./drafts/chap002/adaptive_workflow.tex)
+(./drafts/chap002/bp_lifecycle.tex [25]) (./drafts/chap002/patterns.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -949,7 +933,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 23.
 
-(./drafts/chap002/meta_analysis.tex [27]
+(./drafts/chap002/meta_analysis.tex [26]
 Overfull \hbox (27.4769pt too wide) in paragraph at lines 13--14
 []\T2A/times/m/n/14.4 : PegaSystems, IBM, Appian, Progress Software, Metastorm
  []
@@ -959,31 +943,31 @@ Overfull \hbox (13.43561pt too wide) in paragraph at lines 14--15
 []\T2A/times/m/n/14.4 : Fujitsu, EMC, Global360, Bosh Software Innovations
  []
 
-[28])
+[27])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 25.
 
-(./drafts/chap002/market_research.tex [29])
+(./drafts/chap002/market_research.tex [28])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 27.
 
-(./drafts/chap002/research_results.tex [30])
+(./drafts/chap002/research_results.tex [29])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 29.
 
-(./drafts/chap002/research_concl.tex) [31]
+(./drafts/chap002/research_concl.tex [30])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 32.
 
-(./drafts/chap002/chap002_concl.tex)) (./drafts/chap003.tex [32]
+(./drafts/chap002/chap002_concl.tex)) (./drafts/chap003.tex [31]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -995,30 +979,33 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 3.
 
+(./drafts/chap003/intro_architect.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 4.
+(hyperref)                replaced by space on input line 5.
 
-(./drafts/chap003/enterprise_architect.tex)
+(./drafts/chap003/enterprise_architect.tex [32
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 6.
-
-(./drafts/chap003/bpms_architect.tex)
+])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 8.
+(hyperref)                replaced by space on input line 7.
 
-(./drafts/chap003/decentr_architect.tex)
+(./drafts/chap003/bpms_architect.tex [33])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 10.
+(hyperref)                replaced by space on input line 9.
 
-(./drafts/chap003/veram_architect.tex)
+(./drafts/chap003/virtual_architect.tex)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 14.4pt
+(hyperref)                replaced by space on input line 11.
+
+(./drafts/chap003/concl_architect.tex [34])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1029,23 +1016,21 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 16.
 
-(./drafts/chap003/chap003_concl.tex)) (./drafts/concl.tex [33
+(./drafts/chap003/chap003_concl.tex)) (./drafts/concl.tex [35])
+(./VKR_ZapVV_4013P_2D.bbl [36
 
-])
-(./VKR_ZapVV_4013P_2D.bbl [34
+] [37
 
-] [35
-
-] [36]
+] [38]
 Underfull \hbox (badness 1092) in paragraph at lines 194--200
 \T2A/times/m/n/14.4 форма организации внешнеэкономической деятельности компании
  //
  []
 
-[37] [38] [39]
+[39] [40] [41]
 Underfull \hbox (badness 10000) in paragraph at lines 385--389
-[]\T2A/times/m/n/14.4 OpenText MBPM.  URL: [][]$http : / / www . opentext . com
- / What-[]We-[]Do /
+[]\T2A/times/m/n/14.4 OpenText MBPM.  URL: []$http : / / www . opentext . com /
+ What-[]We-[]Do /
  []
 
 
@@ -1056,38 +1041,38 @@ cess-[]Management-[]BPM /
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 392--395
-[]\T2A/times/m/n/14.4 Opentext Cordys BPM Suite.  URL: [][]$http : / / www . co
-rdys . com /
+[]\T2A/times/m/n/14.4 Opentext Cordys BPM Suite.  URL: []$http : / / www . cord
+ys . com /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 398--401
-[]\T2A/times/m/n/14.4 PegaSystems BPM Suite.  URL: [][]$http : / / www . pega .
- com /
+[]\T2A/times/m/n/14.4 PegaSystems BPM Suite.  URL: []$http : / / www . pega . c
+om /
  []
 
 
 Underfull \hbox (badness 1248) in paragraph at lines 411--414
-[]\T2A/times/m/n/14.4 Tibco Ac^^?tive^^?Ma^^?trix BPM Suite.  URL: [][]$https :
- / / docs . tibco . com / products /
+[]\T2A/times/m/n/14.4 Tibco Ac^^?tive^^?Ma^^?trix BPM Suite.  URL: []$https : /
+ / docs . tibco . com / products /
  []
 
 
 Underfull \hbox (badness 1478) in paragraph at lines 422--424
-[]\T2A/times/m/n/14.4 Bonitasoft BPM.  URL: [][]$http : / / www . bonitasoft . 
-com/$[][] ([]да^^?та об^^?ра^^?ще^^?ния[]:
+[]\T2A/times/m/n/14.4 Bonitasoft BPM.  URL: []$http : / / www . bonitasoft . co
+m/$[] ([]да^^?та об^^?ра^^?ще^^?ния[]:
  []
 
-[40]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [41]
+[42]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [43]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=659, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=677, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [42
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [44
 
  <./imgs/deming_cycle.png>]
 
@@ -1104,7 +1089,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[43
+[45
 
 ]
 
@@ -1116,7 +1101,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-)) [44
+)) [46
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
@@ -1124,13 +1109,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11139 strings out of 493848
- 158899 string characters out of 1152824
- 227981 words of memory out of 3000000
- 13806 multiletter control sequences out of 15000+50000
- 22915 words of font info for 65 fonts, out of 3000000 for 9000
+ 11120 strings out of 493848
+ 158694 string characters out of 1152824
+ 227199 words of memory out of 3000000
+ 13781 multiletter control sequences out of 15000+50000
+ 23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 45i,9n,45p,1112b,695s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,9n,45p,1112b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}{/usr/local/share/texmf
 /fonts/enc/dvips/pscyr/t2a.enc}
 
@@ -1160,9 +1145,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (44 pages, 242760 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (46 pages, 249055 bytes).
 PDF statistics:
- 752 PDF objects out of 1000 (max. 8388607)
- 216 named destinations out of 1000 (max. 500000)
+ 773 PDF objects out of 1000 (max. 8388607)
+ 222 named destinations out of 1000 (max. 500000)
  362 words of extra memory for PDF output out of 10000 (max. 10000000)
 
