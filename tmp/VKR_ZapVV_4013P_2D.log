@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  20 DEC 2013 22:19
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  21 DEC 2013 04:16
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1004,60 +1004,42 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                replaced by space on input line 14.
 
 (./drafts/chap003/bpms_vision.tex
-
-LaTeX Warning: Reference `bpms_vision' on page 36 undefined on input line 1.
-
-<imgs/bpms_vision.png, id=630, 434.5836pt x 428.802pt>
+<imgs/bpms_vision.png, id=620, 434.5836pt x 428.802pt>
 File: imgs/bpms_vision.png Graphic file (type png)
 
 <use imgs/bpms_vision.png>
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `bpms_vision' on page 36 undefined on input line 8.
 
-<imgs/case_001.png, id=632, 525.965pt x 75.28125pt>
-File: imgs/case_001.png Graphic file (type png)
- <use imgs/case_001.png>
+[36 <./imgs/bpms_vision.png>]
+<imgs/usecase_colloboration.png, id=628, 731.73375pt x 382.42876pt>
+File: imgs/usecase_colloboration.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use imgs/usecase_colloboration.png>
+Overfull \hbox (14.28688pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
 
-[36])
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+[37 <./imgs/usecase_colloboration.png (PNG copy)>] [38])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 16.
 
-(./drafts/chap003/bpms_components.tex [37 <./imgs/bpms_vision.png> <./imgs/case
-_001.png (PNG copy)>]
+(./drafts/chap003/bpms_components.tex [39]
 
-LaTeX Warning: Reference `activiti_architect' on page 38 undefined on input lin
+LaTeX Warning: Reference `activiti_architect' on page 40 undefined on input lin
 e 12.
 
-<imgs/activiti_architect.png, id=652, 517.6941pt x 255.5949pt>
+<imgs/activiti_architect.png, id=649, 517.6941pt x 255.5949pt>
 File: imgs/activiti_architect.png Graphic file (type png)
 
-<use imgs/activiti_architect.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[38]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 23.
-
-
-Overfull \hbox (3.14949pt too wide) in paragraph at lines 24--25
-[]\T2A/times/m/n/14.4 При ор^^?га^^?ни^^?за^^?ции де^^?цен^^?тра^^?ли^^?зо^^?ва
-н^^?ной си^^?сте^^?мы вза^^?и^^?мо^^?дей^^?ствие меж^^?ду участ^^?
- []
-
-[39 <./imgs/activiti_architect.png>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 14.4pt
-(hyperref)                replaced by space on input line 29.
-
-[40])
+<use imgs/activiti_architect.png> [40 <./imgs/activiti_architect.png>] [41])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1069,63 +1051,75 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 20.
 
-(./drafts/chap003/analysis.tex)) (./drafts/concl.tex [41])
-(./VKR_ZapVV_4013P_2D.bbl [42
+(./drafts/chap003/analysis.tex)) (./drafts/concl.tex [42])
+(./VKR_ZapVV_4013P_2D.bbl [43
 
-] [43
+] [44
 
-] [44]
+] [45]
 Underfull \hbox (badness 1092) in paragraph at lines 194--200
 \T2A/times/m/n/14.4 форма организации внешнеэкономической деятельности компании
  //
  []
 
-[45] [46] [47]
-Underfull \hbox (badness 10000) in paragraph at lines 385--389
+[46]
+Underfull \hbox (badness 1931) in paragraph at lines 314--318
+[]\T2A/times/m/n/14.4 eTOM Busi^^?ness Pro^^?cess Frame^^?work.  URL: []$http :
+ / / www . tmforum . org /
+ []
+
+[47]
+Underfull \hbox (badness 1205) in paragraph at lines 326--329
+[]\T2A/times/m/n/14.4 PCF - Pro^^?cess Clas^^?si^^?fi^^?ca^^?tion Frame^^?work.
+  URL: []$http : / / www . apqc . org /
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 389--393
 []\T2A/times/m/n/14.4 OpenText MBPM.  URL: []$http : / / www . opentext . com /
  What-[]We-[]Do /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--389
+Underfull \hbox (badness 10000) in paragraph at lines 389--393
 \T2A/times/m/n/14.4 Products / Business-[]Process-[]Management / Business-[]Pro
 cess-[]Management-[]BPM /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--395
+Underfull \hbox (badness 10000) in paragraph at lines 396--399
 []\T2A/times/m/n/14.4 Opentext Cordys BPM Suite.  URL: []$http : / / www . cord
 ys . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--401
+Underfull \hbox (badness 10000) in paragraph at lines 402--405
 []\T2A/times/m/n/14.4 PegaSystems BPM Suite.  URL: []$http : / / www . pega . c
 om /
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 411--414
+Underfull \hbox (badness 1248) in paragraph at lines 415--418
 []\T2A/times/m/n/14.4 Tibco Ac^^?tive^^?Ma^^?trix BPM Suite.  URL: []$https : /
  / docs . tibco . com / products /
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 422--424
+Underfull \hbox (badness 1478) in paragraph at lines 426--428
 []\T2A/times/m/n/14.4 Bonitasoft BPM.  URL: []$http : / / www . bonitasoft . co
 m/$[] ([]да^^?та об^^?ра^^?ще^^?ния[]:
  []
 
-[48]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [49]
+[49]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [50]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=757, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=753, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [50
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [51
 
  <./imgs/deming_cycle.png>]
 
@@ -1142,7 +1136,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[51
+[52
 
 ]
 
@@ -1154,7 +1148,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-)) [52
+)) [53
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
@@ -1165,10 +1159,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11185 strings out of 493848
- 159946 string characters out of 1152824
+ 11182 strings out of 493848
+ 159950 string characters out of 1152824
  227295 words of memory out of 3000000
- 13817 multiletter control sequences out of 15000+50000
+ 13815 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1112b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1201,9 +1195,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (52 pages, 643319 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (53 pages, 657684 bytes).
 PDF statistics:
- 856 PDF objects out of 1000 (max. 8388607)
- 246 named destinations out of 1000 (max. 500000)
- 401 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 852 PDF objects out of 1000 (max. 8388607)
+ 245 named destinations out of 1000 (max. 500000)
+ 385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
