@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  21 DEC 2013 05:12
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  21 DEC 2013 05:55
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1007,21 +1007,17 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 <imgs/bpms_vision.png, id=606, 434.5836pt x 428.802pt>
 File: imgs/bpms_vision.png Graphic file (type png)
 
-<use imgs/bpms_vision.png>
-
-LaTeX Warning: Reference `bpms_vision' on page 35 undefined on input line 8.
-
-[35 <./imgs/bpms_vision.png>]
-<imgs/usecase_colloboration.png, id=614, 731.73375pt x 382.42876pt>
+<use imgs/bpms_vision.png> [35 <./imgs/bpms_vision.png>]
+<imgs/usecase_colloboration.png, id=615, 731.73375pt x 382.42876pt>
 File: imgs/usecase_colloboration.png Graphic file (type png)
 
 <use imgs/usecase_colloboration.png>
-Overfull \hbox (14.28688pt too wide) in paragraph at lines 13--14
+Overfull \hbox (14.28688pt too wide) in paragraph at lines 14--15
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--19
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
@@ -1032,37 +1028,33 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                replaced by space on input line 16.
 
 (./drafts/chap003/bpms_components.tex [38]
-
-LaTeX Warning: Reference `activiti_architect' on page 39 undefined on input lin
-e 12.
-
-<imgs/activiti_architect.png, id=635, 517.6941pt x 255.5949pt>
+<imgs/activiti_architect.png, id=637, 517.6941pt x 255.5949pt>
 File: imgs/activiti_architect.png Graphic file (type png)
 
 <use imgs/activiti_architect.png> [39 <./imgs/activiti_architect.png>] [40]))
 (./drafts/concl.tex [41]) (./VKR_ZapVV_4013P_2D.bbl [42
 
-] [43] [44
+] [43
 
-] [45]
+] [44]
 Underfull \hbox (badness 1092) in paragraph at lines 194--200
 \T2A/times/m/n/14.4 форма организации внешнеэкономической деятельности компании
  //
  []
 
-[46]
+[45]
 Underfull \hbox (badness 1931) in paragraph at lines 314--318
 []\T2A/times/m/n/14.4 eTOM Busi^^?ness Pro^^?cess Frame^^?work.  URL: []$http :
  / / www . tmforum . org /
  []
 
-[47]
+[46]
 Underfull \hbox (badness 1205) in paragraph at lines 326--329
 []\T2A/times/m/n/14.4 PCF - Pro^^?cess Clas^^?si^^?fi^^?ca^^?tion Frame^^?work.
   URL: []$http : / / www . apqc . org /
  []
 
-[48]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 389--393
 []\T2A/times/m/n/14.4 OpenText MBPM.  URL: []$http : / / www . opentext . com /
  What-[]We-[]Do /
@@ -1098,16 +1090,16 @@ Underfull \hbox (badness 1478) in paragraph at lines 426--428
 m/$[] ([]да^^?та об^^?ра^^?ще^^?ния[]:
  []
 
-[49]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [50]
+[48]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [49]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=743, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=741, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [51
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [50
 
  <./imgs/deming_cycle.png>]
 
@@ -1124,7 +1116,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[52
+[51
 
 ]
 
@@ -1136,21 +1128,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-)) [53
+)) [52
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
  11172 strings out of 493848
- 159727 string characters out of 1152824
- 228295 words of memory out of 3000000
- 13813 multiletter control sequences out of 15000+50000
+ 159743 string characters out of 1152824
+ 227544 words of memory out of 3000000
+ 13814 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1112b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1183,9 +1172,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (53 pages, 657545 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (52 pages, 657210 bytes).
 PDF statistics:
- 842 PDF objects out of 1000 (max. 8388607)
- 243 named destinations out of 1000 (max. 500000)
+ 840 PDF objects out of 1000 (max. 8388607)
+ 242 named destinations out of 1000 (max. 500000)
  369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
