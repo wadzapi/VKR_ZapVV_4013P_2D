@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  21 DEC 2013 06:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  21 DEC 2013 21:53
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -688,11 +688,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
 [][]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-[]
- []
-
 LaTeX Font Info:    Try loading font information for OT1+txr on input line 104.
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/ot1txr.fd
@@ -1043,63 +1038,63 @@ Underfull \hbox (badness 1092) in paragraph at lines 194--200
  []
 
 [45]
-Underfull \hbox (badness 1931) in paragraph at lines 314--318
-[]\T2A/times/m/n/14.4 eTOM Busi^^?ness Pro^^?cess Frame^^?work.  URL: []$http :
- / / www . tmforum . org /
+Underfull \hbox (badness 1931) in paragraph at lines 315--319
+[]\T2A/times/m/n/14.4 eTOM Business Process Framework.  URL: []$http : / / www 
+. tmforum . org /
  []
 
 [46]
-Underfull \hbox (badness 1205) in paragraph at lines 326--329
-[]\T2A/times/m/n/14.4 PCF - Pro^^?cess Clas^^?si^^?fi^^?ca^^?tion Frame^^?work.
-  URL: []$http : / / www . apqc . org /
+Underfull \hbox (badness 1205) in paragraph at lines 327--330
+[]\T2A/times/m/n/14.4 PCF - Process Classification Framework.  URL: []$http : /
+ / www . apqc . org /
  []
 
 [47]
-Underfull \hbox (badness 10000) in paragraph at lines 389--393
+Underfull \hbox (badness 10000) in paragraph at lines 397--401
 []\T2A/times/m/n/14.4 OpenText MBPM.  URL: []$http : / / www . opentext . com /
  What-[]We-[]Do /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--393
+Underfull \hbox (badness 10000) in paragraph at lines 397--401
 \T2A/times/m/n/14.4 Products / Business-[]Process-[]Management / Business-[]Pro
 cess-[]Management-[]BPM /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--399
+Underfull \hbox (badness 10000) in paragraph at lines 404--407
 []\T2A/times/m/n/14.4 Opentext Cordys BPM Suite.  URL: []$http : / / www . cord
 ys . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--405
+Underfull \hbox (badness 10000) in paragraph at lines 410--413
 []\T2A/times/m/n/14.4 PegaSystems BPM Suite.  URL: []$http : / / www . pega . c
 om /
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 415--418
-[]\T2A/times/m/n/14.4 Tibco Ac^^?tive^^?Ma^^?trix BPM Suite.  URL: []$https : /
- / docs . tibco . com / products /
+Underfull \hbox (badness 1248) in paragraph at lines 423--426
+[]\T2A/times/m/n/14.4 Tibco ActiveMatrix BPM Suite.  URL: []$https : / / docs .
+ tibco . com / products /
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 426--428
+Underfull \hbox (badness 1478) in paragraph at lines 434--436
 []\T2A/times/m/n/14.4 Bonitasoft BPM.  URL: []$http : / / www . bonitasoft . co
-m/$[] ([]да^^?та об^^?ра^^?ще^^?ния[]:
+m/$[] (да^^?та об^^?ра^^?ще^^?ния:
  []
 
-[48]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [49]
+[48] [49]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [50]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=741, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=745, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [50
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [51
 
  <./imgs/deming_cycle.png>]
 
@@ -1116,7 +1111,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[51
+[52
 
 ]
 
@@ -1128,7 +1123,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-)) [52
+)) [53
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
@@ -1136,13 +1131,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11172 strings out of 493848
- 159743 string characters out of 1152824
- 227544 words of memory out of 3000000
+ 11173 strings out of 493848
+ 159750 string characters out of 1152824
+ 228544 words of memory out of 3000000
  13814 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 45i,9n,45p,1112b,694s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,9n,45p,1112b,736s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}{/usr/local/share/texmf
 /fonts/enc/dvips/pscyr/t2a.enc}
 
@@ -1172,9 +1167,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (52 pages, 657210 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (53 pages, 657856 bytes).
 PDF statistics:
- 840 PDF objects out of 1000 (max. 8388607)
- 242 named destinations out of 1000 (max. 500000)
+ 844 PDF objects out of 1000 (max. 8388607)
+ 243 named destinations out of 1000 (max. 500000)
  369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
