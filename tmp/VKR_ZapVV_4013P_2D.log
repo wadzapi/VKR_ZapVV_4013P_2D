@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.6.4)  23 DEC 2013 00:11
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  23 DEC 2013 00:51
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -12,7 +12,7 @@ ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
 skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
 orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
 , estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
-rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
 (/etc/texmf/tex/latex/disser/disser.cls
 Document Class: disser 2012/11/29 1.2.0 Document class for dissertations
 (/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
@@ -464,7 +464,7 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 (/usr/share/texmf-texlive/tex/latex/cyrillic/cp1251.def
 File: cp1251.def 1999/11/16 v1.0d Input encoding file
 ))
-(/var/lib/texmf/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
 Package: babel 2008/07/06 v3.8l The Babel package
 
 (/usr/share/texmf-texlive/tex/generic/babel/english.ldf
@@ -1131,10 +1131,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11173 strings out of 493848
- 159750 string characters out of 1152824
- 228544 words of memory out of 3000000
- 13814 multiletter control sequences out of 15000+50000
+ 11171 strings out of 493857
+ 159730 string characters out of 1153304
+ 228536 words of memory out of 3000000
+ 13812 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,9n,45p,1112b,736s stack positions out of 5000i,500n,10000p,200000b,50000s
