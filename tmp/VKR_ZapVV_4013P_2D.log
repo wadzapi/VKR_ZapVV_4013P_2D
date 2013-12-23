@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  23 DEC 2013 04:46
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  23 DEC 2013 05:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1050,94 +1050,66 @@ org/
 [46
 
 ] [47]
-Underfull \hbox (badness 2042) in paragraph at lines 127--130
-[]\T2A/times/m/it/14.4 Alfresco \T2A/times/m/n/14.4 .  Activiti BPM Platform  /
-/ [Ёлек^^?трон^^?ный ре^^?сурс].
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--140
-[]\T2A/times/m/it/14.4 Appian \T2A/times/m/n/14.4 .  BPM Suite  // [Ёлек^^?трон
-^^?ный ре^^?сурс].
- []
-
-
-Underfull \hbox (badness 3019) in paragraph at lines 148--151
-[]\T2A/times/m/it/14.4 Bonitasoft \T2A/times/m/n/14.4 .  Bonita BPM Suite  // [
-Ёлек^^?трон^^?ный ре^^?сурс].
- []
-
-
-Underfull \hbox (badness 5533) in paragraph at lines 167--171
+Underfull \hbox (badness 5533) in paragraph at lines 152--156
 []\T2A/times/m/it/14.4 Center American Productivity & Quality\T2A/times/m/n/14.
 4 .  PCF - Process
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--171
+Underfull \hbox (badness 10000) in paragraph at lines 152--156
 \T2A/times/m/n/14.4 Classification Framework  // [Ёлек^^?трон^^?ный ре^^?сурс].
 
  []
 
-[48]
-Underfull \hbox (badness 1102) in paragraph at lines 179--182
+
+Underfull \hbox (badness 1102) in paragraph at lines 164--167
 []\T2A/times/m/it/14.4 Coalition Workflow Management\T2A/times/m/n/14.4 .  Work
 flow Management Coalition.
  []
 
 
-Overfull \hbox (29.39738pt too wide) in paragraph at lines 223--227
+Underfull \hbox (badness 3098) in paragraph at lines 170--173
+[]\T2A/times/m/it/14.4 Corporation Appian\T2A/times/m/n/14.4 .  BPM Suite  // [
+Ёлек^^?трон^^?ный ре^^?сурс].
+ []
+
+[48]
+Overfull \hbox (29.39738pt too wide) in paragraph at lines 214--218
 \T2A/times/m/n/14.4 <http://www.fujitsu.com/global/services/software/interstage
 /solutions/bpmgt/bpm/>.
  []
 
 [49]
-Underfull \hbox (badness 10000) in paragraph at lines 263--266
-[]\T2A/times/m/it/14.4 Intalio \T2A/times/m/n/14.4 .  BPM Suite  // [Ёлек^^?тро
-н^^?ный ре^^?сурс].
- []
-
-[50]
-Underfull \hbox (badness 6348) in paragraph at lines 329--333
-[]\T2A/times/m/it/14.4 Opentext \T2A/times/m/n/14.4 .  Cordys BPM Suite  // [Ёл
-ек^^?трон^^?ный ре^^?
+Underfull \hbox (badness 4819) in paragraph at lines 255--259
+[]\T2A/times/m/it/14.4 Inc. Opentext Software\T2A/times/m/n/14.4 .  Cordys BPMS
+  // [Ёлек^^?трон^^?ный
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 329--333
-\T2A/times/m/n/14.4 сурс]. <http://www.cordys.com/bpms-business-process-managem
-ent-suite>.
+Underfull \hbox (badness 1348) in paragraph at lines 263--267
+[]\T2A/times/m/it/14.4 Inc. Opentext Software\T2A/times/m/n/14.4 .  MBPM - (Met
+astorm BPM)  // [Ёлек^^?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--341
-[]\T2A/times/m/it/14.4 Opentext \T2A/times/m/n/14.4 .  OpenText MBPM (formely
+Underfull \hbox (badness 10000) in paragraph at lines 263--267
+\T2A/times/m/n/14.4 трон^^?ный ре^^?сурс]. <http://www.opentext.com-/What-We-Do
+/Products-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--341
-\T2A/times/m/n/14.4 Metastorm BPM)  // [Ёлек^^?трон^^?ный ре^^?сурс].
+Underfull \hbox (badness 10000) in paragraph at lines 263--267
+\T2A/times/m/n/14.4 /Business-Process-Management-/Business-Process-Management-B
+PM-
  []
 
 
-Overfull \hbox (357.15523pt too wide) in paragraph at lines 336--341
-\T2A/times/m/n/14.4 <http://www.opentext.com/What-We-Do/Products/Business-Proce
-ss-Management/Business-Process-Management-BPM/OpenText-MBPM>.
- []
-
-
-Underfull \hbox (badness 7796) in paragraph at lines 353--356
-[]\T2A/times/m/it/14.4 Pegasystems \T2A/times/m/n/14.4 .  BPM Suite  // [Ёлек^^
-?трон^^?ный ре^^?сурс].
- []
-
-[51]
-Underfull \hbox (badness 1448) in paragraph at lines 387--391
-[]\T2A/times/m/it/14.4 Tibco \T2A/times/m/n/14.4 .  Active Matrix BPM Suite  //
+Underfull \hbox (badness 1478) in paragraph at lines 292--295
+[]\T2A/times/m/it/14.4 Intalio \T2A/times/m/n/14.4 .  Open Source BPM Suite  //
  [Ёлек^^?трон^^?ный ре^^?сурс].
  []
 
-) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [52]
+[50] [51]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [52]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1185,11 +1157,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  11168 strings out of 493857
  159669 string characters out of 1153304
- 230314 words of memory out of 3000000
+ 230430 words of memory out of 3000000
  13807 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 45i,9n,45p,1112b,560s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,9n,45p,1112b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}{/usr/local/share/texmf
 /fonts/enc/dvips/pscyr/t2a.enc}
 
@@ -1219,7 +1191,7 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (55 pages, 651446 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (55 pages, 651478 bytes).
 PDF statistics:
  816 PDF objects out of 1000 (max. 8388607)
  245 named destinations out of 1000 (max. 500000)
