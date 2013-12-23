@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  23 DEC 2013 01:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  23 DEC 2013 04:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -532,51 +532,51 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 (./VKR_ZapVV_4013P_2D.aux)
 \openout1 = `VKR_ZapVV_4013P_2D.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 66.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 66.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 55.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 55.
 
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 66.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 66.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 55.
 
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 66.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 66.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 55.
 
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 66.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 66.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 55.
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Info: Redefining \English on input line 66.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Info: Redefining \English on input line 55.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
-LaTeX Info: Redefining \subref on input line 66.
+LaTeX Info: Redefining \subref on input line 55.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
@@ -584,7 +584,7 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 66.
+Package hyperref Info: Link coloring OFF on input line 55.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -594,8 +594,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 66.
-LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
 
 (./VKR_ZapVV_4013P_2D.out) (./VKR_ZapVV_4013P_2D.out)
 \@outlinefile=\write3
@@ -624,8 +624,8 @@ landscape: --
 twocolumn: --
 twoside: --
 asymmetric: --
-h-parts: 71.13188pt, 497.92325pt, 28.45274pt
-v-parts: 56.9055pt, 731.23584pt, 56.9055pt
+h-parts: 85.35826pt, 483.69687pt, 28.45274pt
+v-parts: 42.67912pt, 745.46222pt, 56.9055pt
 hmarginratio: --
 vmarginratio: --
 lines: --
@@ -639,11 +639,11 @@ driver: pdftex
 -------------------- Page layout dimensions and switches
 \paperwidth  597.50787pt
 \paperheight 845.04684pt
-\textwidth  497.92325pt
-\textheight 731.23584pt
-\oddsidemargin  -1.1381pt
-\evensidemargin -1.1381pt
-\topmargin  -49.28133pt
+\textwidth  483.69687pt
+\textheight 745.46222pt
+\oddsidemargin  13.08827pt
+\evensidemargin 13.08827pt
+\topmargin  -63.5077pt
 \headheight 14.0pt
 \headsep    19.91684pt
 \footskip   28.45274pt
@@ -664,59 +664,50 @@ driver: pdftex
 \fifthskip=\skip65
 \sixthskip=\skip66
 LaTeX Font Info:    Font shape `T2A/times/bx/n' in size <12> not available
-(Font)              Font shape `T2A/times/b/n' tried instead on input line 104.
-
+(Font)              Font shape `T2A/times/b/n' tried instead on input line 93.
 
 LaTeX Font Warning: Font shape `T2A/times/bx/sl' undefined
-(Font)              using `T2A/times/bx/n' instead on input line 104.
+(Font)              using `T2A/times/bx/n' instead on input line 93.
 
 LaTeX Font Info:    Font shape `T2A/times/bx/n' in size <20.74> not available
-(Font)              Font shape `T2A/times/b/n' tried instead on input line 104.
-
+(Font)              Font shape `T2A/times/b/n' tried instead on input line 93.
 
 LaTeX Font Warning: Font shape `T2A/times/m/sl' undefined
-(Font)              using `T2A/times/m/n' instead on input line 104.
+(Font)              using `T2A/times/m/n' instead on input line 93.
 
 LaTeX Font Info:    Font shape `T2A/times/bx/sl' in size <17.28> not available
-(Font)              Font shape `T2A/times/b/n' tried instead on input line 104.
-
+(Font)              Font shape `T2A/times/b/n' tried instead on input line 93.
 LaTeX Font Info:    Font shape `T2A/times/bx/n' in size <14.4> not available
-(Font)              Font shape `T2A/times/b/n' tried instead on input line 104.
+(Font)              Font shape `T2A/times/b/n' tried instead on input line 93.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
 [][]
  []
 
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 104.
-
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 93.
 (/usr/share/texmf-texlive/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Try loading font information for U+txsya on input line 104.
-
+LaTeX Font Info:    Try loading font information for U+txsya on input line 93.
  (/usr/share/texmf-texlive/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 104.
-
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 93.
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+euex on input line 104.
+LaTeX Font Info:    Try loading font information for U+euex on input line 93.
 
 (/usr/share/texmf-texlive/tex/latex/amsfonts/ueuex.fd
 File: ueuex.fd 2009/06/22 v3.00 Euler extra symbols
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 104.
-
+LaTeX Font Info:    Try loading font information for U+txmia on input line 93.
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 104.
-
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 93.
 
 (/usr/share/texmf-texlive/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
@@ -773,7 +764,7 @@ LaTeX Font Warning: Font shape `OT1/times/m/n' undefined
  [3] (./drafts/intro.tex [4
 
 
-] [5]) (./drafts/chap001.tex [6]
+] [5]) (./drafts/chap001.tex [6] [7]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -798,9 +789,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap001/bp_classes.tex [7
+(./drafts/chap001/bp_classes.tex [8
 
-] [8]))
+]
+Overfull \hbox (1.67703pt too wide) in paragraph at lines 3--4
+[]\T2A/times/m/n/14.4 ориентированы на про^^?из^^?вод^^?ство то^^?ва^^?ра или у
+слу^^?
+ []
+
+
+Overfull \hbox (3.42082pt too wide) in paragraph at lines 5--6
+[]\T2A/times/m/n/14.4 составл€ют де^^?€^^?тель^^?ность, на^^?прав^^?лен^^?ную
+ []
+
+[9]))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -813,13 +815,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 3.
 
-(./drafts/chap001/org_structure.tex [9] [10])
+(./drafts/chap001/org_structure.tex [10] [11])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap001/org_communication.tex [11]))
+(./drafts/chap001/org_communication.tex [12]))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -831,19 +833,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 3.
 
-(./drafts/chap001/static_modeling.tex [12])
+(./drafts/chap001/static_modeling.tex [13])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap001/dynamic_modeling.tex [13])
+(./drafts/chap001/dynamic_modeling.tex [14])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 9.
 
-(./drafts/chap001/bpm_lang.tex [14] [15]
+(./drafts/chap001/bpm_lang.tex [15] [16]
 LaTeX Font Info:    Try loading font information for OMS+times on input line 24
 .
 LaTeX Font Info:    No file OMStimes.fd. on input line 24.
@@ -865,19 +867,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 2.
 
-(./drafts/chap001/workflow_systems.tex [16] [17])
+(./drafts/chap001/workflow_systems.tex [17] [18] [19])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 5.
 
-(./drafts/chap001/bpm_systems.tex [18] [19])
+(./drafts/chap001/bpm_systems.tex [20])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 8.
 
-(./drafts/chap001/pm_systems.tex))) (./drafts/chap002.tex [20]
+(./drafts/chap001/pm_systems.tex [21]))) (./drafts/chap002.tex [22]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -894,23 +896,28 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap002/virtual_enterprise.tex [21
+(./drafts/chap002/virtual_enterprise.tex [23
 
 ])
-(./drafts/chap002/virtual_team.tex [22])
+(./drafts/chap002/virtual_team.tex [24])
+Overfull \hbox (7.5727pt too wide) in paragraph at lines 9--11
+\T2A/times/m/n/14.4 син^^?хрон^^?но^^?го вза^^?и^^?мо^^?дей^^?стви€ при^^?ме^^?
+н€^^?ют тех^^?но^^?ло^^?гии аудио-/видеоконференций,
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 11.
 
-(./drafts/chap002/knowledge_management.tex [23])
+(./drafts/chap002/knowledge_management.tex [25])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 13.
 
-(./drafts/chap002/agile_bp.tex [24]) (./drafts/chap002/adaptive_workflow.tex)
-(./drafts/chap002/bp_lifecycle.tex [25]) (./drafts/chap002/patterns.tex)
+(./drafts/chap002/agile_bp.tex [26]) (./drafts/chap002/adaptive_workflow.tex)
+(./drafts/chap002/bp_lifecycle.tex [27]) (./drafts/chap002/patterns.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -921,35 +928,35 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 23.
 
-(./drafts/chap002/meta_analysis.tex [26]
-Overfull \hbox (27.4769pt too wide) in paragraph at lines 13--14
-[]\T2A/times/m/n/14.4 : PegaSystems, IBM, Appian, Progress Software, Metastorm
- []
-
-
-Overfull \hbox (13.43561pt too wide) in paragraph at lines 14--15
+(./drafts/chap002/meta_analysis.tex [28]
+Overfull \hbox (27.66199pt too wide) in paragraph at lines 14--15
 []\T2A/times/m/n/14.4 : Fujitsu, EMC, Global360, Bosh Software Innovations
  []
 
-[27])
+[29])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 25.
 
-(./drafts/chap002/market_research.tex [28])
+(./drafts/chap002/market_research.tex [30]
+Overfull \hbox (5.77098pt too wide) in paragraph at lines 6--7
+[]\T2A/times/m/n/14.4 : Appian BPM Suite[[]], OpenText MBPM
+ []
+
+)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 27.
 
-(./drafts/chap002/research_results.tex [29])
+(./drafts/chap002/research_results.tex [31])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 29.
 
-(./drafts/chap002/research_concl.tex [30])) (./drafts/chap003.tex [31]
+(./drafts/chap002/research_concl.tex [32])) (./drafts/chap003.tex [33]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -967,7 +974,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 5.
 
-(./drafts/chap003/enterprise_architect.tex [32
+(./drafts/chap003/enterprise_architect.tex [34
 
 ])
 
@@ -975,7 +982,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 7.
 
-(./drafts/chap003/bpms_architect.tex [33])
+(./drafts/chap003/bpms_architect.tex [35])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -987,7 +994,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 11.
 
-(./drafts/chap003/concl_architect.tex [34])
+(./drafts/chap003/concl_architect.tex [36])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -999,15 +1006,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                replaced by space on input line 14.
 
 (./drafts/chap003/bpms_vision.tex
-<imgs/bpms_vision.png, id=606, 434.5836pt x 428.802pt>
+<imgs/bpms_vision.png, id=614, 434.5836pt x 428.802pt>
 File: imgs/bpms_vision.png Graphic file (type png)
 
-<use imgs/bpms_vision.png> [35 <./imgs/bpms_vision.png>]
-<imgs/usecase_colloboration.png, id=615, 731.73375pt x 382.42876pt>
+<use imgs/bpms_vision.png> [37 <./imgs/bpms_vision.png>]
+<imgs/usecase_colloboration.png, id=624, 731.73375pt x 382.42876pt>
 File: imgs/usecase_colloboration.png Graphic file (type png)
 
 <use imgs/usecase_colloboration.png>
-Overfull \hbox (14.28688pt too wide) in paragraph at lines 14--15
+Overfull \hbox (28.51326pt too wide) in paragraph at lines 14--15
  [][] 
  []
 
@@ -1016,32 +1023,130 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
-[36 <./imgs/usecase_colloboration.png (PNG copy)>] [37])
+[38 <./imgs/usecase_colloboration.png (PNG copy)>] [39])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 16.
 
-(./drafts/chap003/bpms_components.tex [38]
-<imgs/activiti_architect.png, id=637, 517.6941pt x 255.5949pt>
+(./drafts/chap003/bpms_components.tex [40]
+Overfull \hbox (1.66884pt too wide) in paragraph at lines 12--13
+ \T2A/times/b/n/14.4 ќб^^?зор ар^^?хи^^?тек^^?ту^^?ры Activiti.[] \T2A/times/m/
+n/14.4 Ќа^^?бор про^^?грамм^^?ных ком^^?по^^?нен^^?тов Activiti вклю^^?
+ []
+
+<imgs/activiti_architect.png, id=645, 517.6941pt x 255.5949pt>
 File: imgs/activiti_architect.png Graphic file (type png)
 
-<use imgs/activiti_architect.png> [39 <./imgs/activiti_architect.png>] [40]))
-(./drafts/concl.tex [41]) (./VKR_ZapVV_4013P_2D.bbl [42
+<use imgs/activiti_architect.png> [41 <./imgs/activiti_architect.png>] [42]))
+(./drafts/concl.tex [43]) (./VKR_ZapVV_4013P_2D.bbl [44
 
-] [43
+] [45]
+Underfull \hbox (badness 1953) in paragraph at lines 12--14
+[]\T2A/times/m/n/14.4 eTOM Business Process Framework. URL: http://www.tmforum.
+org/
+ []
 
-] [44] [45]
-[46] [47]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [48]
+[46
+
+] [47]
+Underfull \hbox (badness 2042) in paragraph at lines 127--130
+[]\T2A/times/m/it/14.4 Alfresco \T2A/times/m/n/14.4 .  Activiti BPM Platform  /
+/ [Ёлек^^?трон^^?ный ре^^?сурс].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+[]\T2A/times/m/it/14.4 Appian \T2A/times/m/n/14.4 .  BPM Suite  // [Ёлек^^?трон
+^^?ный ре^^?сурс].
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 148--151
+[]\T2A/times/m/it/14.4 Bonitasoft \T2A/times/m/n/14.4 .  Bonita BPM Suite  // [
+Ёлек^^?трон^^?ный ре^^?сурс].
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 167--171
+[]\T2A/times/m/it/14.4 Center American Productivity & Quality\T2A/times/m/n/14.
+4 .  PCF - Process
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--171
+\T2A/times/m/n/14.4 Classification Framework  // [Ёлек^^?трон^^?ный ре^^?сурс].
+
+ []
+
+[48]
+Underfull \hbox (badness 1102) in paragraph at lines 179--182
+[]\T2A/times/m/it/14.4 Coalition Workflow Management\T2A/times/m/n/14.4 .  Work
+flow Management Coalition.
+ []
+
+
+Overfull \hbox (29.39738pt too wide) in paragraph at lines 223--227
+\T2A/times/m/n/14.4 <http://www.fujitsu.com/global/services/software/interstage
+/solutions/bpmgt/bpm/>.
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+[]\T2A/times/m/it/14.4 Intalio \T2A/times/m/n/14.4 .  BPM Suite  // [Ёлек^^?тро
+н^^?ный ре^^?сурс].
+ []
+
+[50]
+Underfull \hbox (badness 6348) in paragraph at lines 329--333
+[]\T2A/times/m/it/14.4 Opentext \T2A/times/m/n/14.4 .  Cordys BPM Suite  // [Ёл
+ек^^?трон^^?ный ре^^?
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 329--333
+\T2A/times/m/n/14.4 сурс]. <http://www.cordys.com/bpms-business-process-managem
+ent-suite>.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--341
+[]\T2A/times/m/it/14.4 Opentext \T2A/times/m/n/14.4 .  OpenText MBPM (formely
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--341
+\T2A/times/m/n/14.4 Metastorm BPM)  // [Ёлек^^?трон^^?ный ре^^?сурс].
+ []
+
+
+Overfull \hbox (357.15523pt too wide) in paragraph at lines 336--341
+\T2A/times/m/n/14.4 <http://www.opentext.com/What-We-Do/Products/Business-Proce
+ss-Management/Business-Process-Management-BPM/OpenText-MBPM>.
+ []
+
+
+Underfull \hbox (badness 7796) in paragraph at lines 353--356
+[]\T2A/times/m/it/14.4 Pegasystems \T2A/times/m/n/14.4 .  BPM Suite  // [Ёлек^^
+?трон^^?ный ре^^?сурс].
+ []
+
+[51]
+Underfull \hbox (badness 1448) in paragraph at lines 387--391
+[]\T2A/times/m/it/14.4 Tibco \T2A/times/m/n/14.4 .  Active Matrix BPM Suite  //
+ [Ёлек^^?трон^^?ный ре^^?сурс].
+ []
+
+) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [52]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=699, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=716, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [49
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [53
 
  <./imgs/deming_cycle.png>]
 
@@ -1058,7 +1163,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[50
+[54
 
 ]
 
@@ -1070,7 +1175,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-)) [51
+)) [55
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
@@ -1078,13 +1183,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11164 strings out of 493857
- 159641 string characters out of 1153304
- 229315 words of memory out of 3000000
+ 11168 strings out of 493857
+ 159669 string characters out of 1153304
+ 230314 words of memory out of 3000000
  13807 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 45i,9n,45p,1112b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,9n,45p,1112b,560s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}{/usr/local/share/texmf
 /fonts/enc/dvips/pscyr/t2a.enc}
 
@@ -1114,9 +1219,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (51 pages, 647154 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (55 pages, 651446 bytes).
 PDF statistics:
- 799 PDF objects out of 1000 (max. 8388607)
- 241 named destinations out of 1000 (max. 500000)
+ 816 PDF objects out of 1000 (max. 8388607)
+ 245 named destinations out of 1000 (max. 500000)
  369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
