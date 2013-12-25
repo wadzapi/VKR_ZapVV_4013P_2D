@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  24 DEC 2013 07:41
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  25 DEC 2013 08:29
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -761,17 +761,18 @@ LaTeX Font Warning: Font shape `OT1/times/m/n' undefined
 \tf@toc=\write4
 \openout4 = `VKR_ZapVV_4013P_2D.toc'.
 
- [3] (./drafts/intro.tex [4
+ [3] (./drafts/abstract.tex) (./drafts/intro.tex [4
 
+] [5
 
 ]
-<imgs/sys_issl.png, id=233, 765.8211pt x 460.8417pt>
+<imgs/sys_issl.png, id=237, 765.8211pt x 460.8417pt>
 File: imgs/sys_issl.png Graphic file (type png)
  <use imgs/sys_issl.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] [6 <./imgs/sys_issl.png>]) (./drafts/chap001.tex [7] [8]
+[6] [7 <./imgs/sys_issl.png>]) (./drafts/chap001.tex [8] [9]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -796,7 +797,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap001/bp_classes.tex [9
+(./drafts/chap001/bp_classes.tex [10
 
 ]
 Overfull \hbox (1.67703pt too wide) in paragraph at lines 3--4
@@ -809,7 +810,7 @@ Overfull \hbox (3.42082pt too wide) in paragraph at lines 5--6
 []\T2A/times/m/n/14.4 составл€ют де^^?€^^?тель^^?ность, на^^?прав^^?лен^^?ную
  []
 
-[10]))
+[11]))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -822,13 +823,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 3.
 
-(./drafts/chap001/org_structure.tex [11] [12])
+(./drafts/chap001/org_structure.tex [12] [13])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap001/org_communication.tex [13]))
+(./drafts/chap001/org_communication.tex [14]))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -840,19 +841,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 3.
 
-(./drafts/chap001/static_modeling.tex [14])
+(./drafts/chap001/static_modeling.tex [15])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap001/dynamic_modeling.tex [15])
+(./drafts/chap001/dynamic_modeling.tex [16])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 9.
 
-(./drafts/chap001/bpm_lang.tex [16] [17]
+(./drafts/chap001/bpm_lang.tex [17] [18]
 LaTeX Font Info:    Try loading font information for OMS+times on input line 24
 .
 LaTeX Font Info:    No file OMStimes.fd. on input line 24.
@@ -874,19 +875,19 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 2.
 
-(./drafts/chap001/workflow_systems.tex [18] [19] [20])
+(./drafts/chap001/workflow_systems.tex [19] [20] [21])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 5.
 
-(./drafts/chap001/bpm_systems.tex [21])
+(./drafts/chap001/bpm_systems.tex [22])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 8.
 
-(./drafts/chap001/pm_systems.tex [22]))) (./drafts/chap002.tex [23]
+(./drafts/chap001/pm_systems.tex [23]))) (./drafts/chap002.tex [24]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -903,10 +904,10 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 6.
 
-(./drafts/chap002/virtual_enterprise.tex [24
+(./drafts/chap002/virtual_enterprise.tex [25
 
 ])
-(./drafts/chap002/virtual_team.tex [25])
+(./drafts/chap002/virtual_team.tex [26])
 Overfull \hbox (7.5727pt too wide) in paragraph at lines 9--11
 \T2A/times/m/n/14.4 син^^?хрон^^?но^^?го вза^^?и^^?мо^^?дей^^?стви€ при^^?ме^^?
 н€^^?ют тех^^?но^^?ло^^?гии аудио-/видеоконференций,
@@ -917,14 +918,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 11.
 
-(./drafts/chap002/knowledge_management.tex [26])
+(./drafts/chap002/knowledge_management.tex [27])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 13.
 
-(./drafts/chap002/agile_bp.tex [27]) (./drafts/chap002/adaptive_workflow.tex)
-(./drafts/chap002/bp_lifecycle.tex [28]) (./drafts/chap002/patterns.tex)
+(./drafts/chap002/agile_bp.tex [28]) (./drafts/chap002/adaptive_workflow.tex)
+(./drafts/chap002/bp_lifecycle.tex [29]) (./drafts/chap002/patterns.tex)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -935,13 +936,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 23.
 
-(./drafts/chap002/meta_analysis.tex [29] [30])
+(./drafts/chap002/meta_analysis.tex [30] [31])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 25.
 
-(./drafts/chap002/market_research.tex [31]
+(./drafts/chap002/market_research.tex [32]
 Overfull \hbox (5.77098pt too wide) in paragraph at lines 6--7
 []\T2A/times/m/n/14.4 : Appian- BPM Suite[[]],- OpenText MBPM
  []
@@ -952,13 +953,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 27.
 
-(./drafts/chap002/research_results.tex [32])
+(./drafts/chap002/research_results.tex [33])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 29.
 
-(./drafts/chap002/research_concl.tex [33])) (./drafts/chap003.tex [34]
+(./drafts/chap002/research_concl.tex [34])) (./drafts/chap003.tex [35]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -976,7 +977,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 5.
 
-(./drafts/chap003/enterprise_architect.tex [35
+(./drafts/chap003/enterprise_architect.tex [36
 
 ])
 
@@ -984,7 +985,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 7.
 
-(./drafts/chap003/bpms_architect.tex [36])
+(./drafts/chap003/bpms_architect.tex [37])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -996,7 +997,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 11.
 
-(./drafts/chap003/concl_architect.tex [37])
+(./drafts/chap003/concl_architect.tex [38])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
@@ -1008,52 +1009,52 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                replaced by space on input line 14.
 
 (./drafts/chap003/bpms_vision.tex
-<imgs/bpms_vision.png, id=625, 434.5836pt x 428.802pt>
+<imgs/bpms_vision.png, id=629, 434.5836pt x 428.802pt>
 File: imgs/bpms_vision.png Graphic file (type png)
 
-<use imgs/bpms_vision.png> [38 <./imgs/bpms_vision.png>]
-<imgs/main_case.png, id=633, 645.41125pt x 369.38pt>
+<use imgs/bpms_vision.png> [39 <./imgs/bpms_vision.png>]
+<imgs/main_case.png, id=637, 645.41125pt x 369.38pt>
 File: imgs/main_case.png Graphic file (type png)
  <use imgs/main_case.png>
 Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
-[39 <./imgs/main_case.png (PNG copy)>]
-<imgs/bp_design.png, id=643, 649.42625pt x 279.0425pt>
+[40 <./imgs/main_case.png (PNG copy)>]
+<imgs/bp_design.png, id=647, 649.42625pt x 279.0425pt>
 File: imgs/bp_design.png Graphic file (type png)
 
-<use imgs/bp_design.png> [40]
-<imgs/conflicts.png, id=649, 557.08125pt x 284.06125pt>
+<use imgs/bp_design.png> [41]
+<imgs/conflicts.png, id=653, 557.08125pt x 284.06125pt>
 File: imgs/conflicts.png Graphic file (type png)
 
 <use imgs/conflicts.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41 <./imgs/bp_design.png (PNG copy)>])
+[42 <./imgs/bp_design.png (PNG copy)>])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 16.
 
-(./drafts/chap003/bpms_components.tex [42 <./imgs/conflicts.png (PNG copy)>]
+(./drafts/chap003/bpms_components.tex [43 <./imgs/conflicts.png (PNG copy)>]
 Overfull \hbox (1.66884pt too wide) in paragraph at lines 12--13
  \T2A/times/b/n/14.4 ќб^^?зор ар^^?хи^^?тек^^?ту^^?ры Activiti.[] \T2A/times/m/
 n/14.4 Ќа^^?бор про^^?грамм^^?ных ком^^?по^^?нен^^?тов Activiti вклю^^?
  []
 
-<imgs/activiti_architect.png, id=668, 517.6941pt x 255.5949pt>
+<imgs/activiti_architect.png, id=673, 517.6941pt x 255.5949pt>
 File: imgs/activiti_architect.png Graphic file (type png)
 
 <use imgs/activiti_architect.png>
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43] [44 <./imgs/activiti_architect.png>])) (./drafts/concl.tex [45])
-(./VKR_ZapVV_4013P_2D.bbl [46
+[44] [45 <./imgs/activiti_architect.png>])) (./drafts/concl.tex [46])
+(./VKR_ZapVV_4013P_2D.bbl [47
 
-] [47
+] [48
 
 ]
 Underfull \hbox (badness 7981) in paragraph at lines 112--116
@@ -1061,7 +1062,7 @@ Underfull \hbox (badness 7981) in paragraph at lines 112--116
 qc.org/-
  []
 
-[48]
+[49]
 Underfull \hbox (badness 1102) in paragraph at lines 155--158
 []\T2A/times/m/it/14.4 Coalition Workflow Management\T2A/times/m/n/14.4 .  Work
 flow Management Coalition.
@@ -1073,13 +1074,13 @@ Underfull \hbox (badness 3098) in paragraph at lines 161--164
 Ёлек^^?трон^^?ный ре^^?сурс].
  []
 
-[49]
+[50]
 Overfull \hbox (29.39738pt too wide) in paragraph at lines 211--215
 \T2A/times/m/n/14.4 <http://www.fujitsu.com/global/services/software/interstage
 /solutions/bpmgt/bpm/>.
  []
 
-[50] [51] [52]
+[51] [52] [53]
 Underfull \hbox (badness 5231) in paragraph at lines 370--374
 []\T2A/times/m/it/14.4 Software Opentext\T2A/times/m/n/14.4 .  Cordys BPMS  // 
 [Ёлек^^?трон^^?ный ре^^?
@@ -1109,16 +1110,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 378--382
 PM-
  []
 
-[53]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [54]
+[54]) (./drafts/appendix.tex (./drafts/appendix/DemingCycle.tex [55]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 14.4pt
 (hyperref)                replaced by space on input line 1.
 
-<imgs/deming_cycle.png, id=740, 670.75594pt x 374.90062pt>
+<imgs/deming_cycle.png, id=745, 670.75594pt x 374.90062pt>
 File: imgs/deming_cycle.png Graphic file (type png)
 
-<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [55
+<use imgs/deming_cycle.png>) (./drafts/appendix/BpmsResearchTable.tex [56
 
  <./imgs/deming_cycle.png>]
 
@@ -1135,7 +1136,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 44
  []
 
-[56
+[57
 
 ]
 
@@ -1147,7 +1148,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 10000) detected at line 96
  []
 
-)) [57
+)) [58
 
 ] (./VKR_ZapVV_4013P_2D.aux)
 
@@ -1155,8 +1156,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 11198 strings out of 493857
- 160078 string characters out of 1153304
+ 11201 strings out of 493857
+ 160125 string characters out of 1153304
  231151 words of memory out of 3000000
  13822 multiletter control sequences out of 15000+50000
  23331 words of font info for 66 fonts, out of 3000000 for 9000
@@ -1191,9 +1192,9 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (57 pages, 1210327 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (58 pages, 1212074 bytes).
 PDF statistics:
- 843 PDF objects out of 1000 (max. 8388607)
- 257 named destinations out of 1000 (max. 500000)
+ 847 PDF objects out of 1000 (max. 8388607)
+ 258 named destinations out of 1000 (max. 500000)
  384 words of extra memory for PDF output out of 10000 (max. 10000000)
 
