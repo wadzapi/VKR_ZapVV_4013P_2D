@@ -1,5 +1,7 @@
-#Дипломная работа "Исследование и разработка гибких управленческих систем", WadZapi, МУПОЧ Дубна, 2013
-##Research project "Distributed agile management systems" by WadZapi, 4013P-2D, Dubna University, 2013
+#Дипломная работа / Research project 
+
+###"Исследование и разработка гибких управленческих систем", WadZapi, МУПОЧ Дубна, 2013
+###Research project "Distributed agile management systems" by WadZapi, 4013P-2D, Dubna University, 2013
 - - - 
 
 
