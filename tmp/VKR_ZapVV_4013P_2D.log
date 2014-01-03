@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  25 DEC 2013 08:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.12.23)  3 JAN 2014 19:21
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1192,7 +1192,7 @@ pdfTeX warning: pdflatex: font `TimesNewRomanPS-BoldMT' is not a standard font;
 f-texlive/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-texlive/fonts/t
 ype1/public/txfonts/txsy.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/ut
 mr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on VKR_ZapVV_4013P_2D.pdf (58 pages, 1212074 bytes).
+Output written on VKR_ZapVV_4013P_2D.pdf (58 pages, 1212073 bytes).
 PDF statistics:
  847 PDF objects out of 1000 (max. 8388607)
  258 named destinations out of 1000 (max. 500000)

@@ -1,3 +1,0 @@
-#Groupware and development cooperaion
-
- * 
