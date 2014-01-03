@@ -9,13 +9,12 @@ _МУПОЧ Дубна / Dubna University_
 ВКР по специальности ПОВТАС, защищена 24.12.2013 в Международном Университету Природы, Общества и Человека &quot;Дубна&quot;.
 
 
-### Замечания / Notes
 - - -
-* Used rusnat and tuned disser package (by Kruchinin) styles. 
+<sub> _PS:_ Used rusnat and tuned disser package (by Kruchinin) styles.</sub>
 
-    The research certainly will be continued. Going to adopt it in application areas for opensourse and commercial using.
-    I'm ready for action and you? Now, looking for new members, who interested in research and development of software for new paradigm, methods and frameworks in management systems.
-    Feel free to propose and ask any questions by email. 
+    _The research certainly will be continued. Going to adopt it in application areas for opensourse and commercial using._
+    _I'm ready for action and you? Now, looking for new members, who interested in research and development of software for new paradigm, methods and frameworks in management systems._
+    _Feel free to propose and ask any questions by email._ 
 
-####Get fun and Reseach HOW.
+####Get Fun NOW and Reseach HOW.
 _Sincerely yours, WadZapi_
