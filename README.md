@@ -13,4 +13,8 @@ _МУПОЧ Дубна / Dubna University_
 * Used rusnat and tuned disser package (by Kruchinin) styles. 
 
 
-###I'm going to continue research in application areas for opensourse and commercial using. I'm ready for action and you? Looking for new members, who interested in research and development. Feel free to propose and ask any questions by email. WadZapi.
+ > The research certainly will be continued. Going to adopt it in application areas for opensourse and commercial using.
+ > I'm ready for action and you? Now, looking for new members, who interested in research and development of software for new paradigm, methods and frameworks in management systems.
+ > Feel free to propose and ask any questions by email. 
+
+Get fun and Reseach HOW. Sincerely yours, WadZapi
